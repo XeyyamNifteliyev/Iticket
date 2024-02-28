@@ -1,0 +1,155 @@
+.footer {
+  font-size: 1.125rem !important;
+  line-height: 1.75rem;
+  text-align: center;
+}
+:where(.css-dev-only-do-not-override-1qhpsh8).ant-layout-footer {
+  padding: 0;
+}
+
+.sosial_links {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 350px;
+  height: 70px;
+  background-color: #fd0;
+  padding-inline: 15px;
+}
+
+.icon {
+  font-size: 30px;
+  margin-right: 8px;
+  color: black;
+}
+
+.title {
+  font-size: 1.5rem;
+  line-height: 2rem;
+  padding-bottom: 1.25rem;
+  font-weight: 700;
+}
+
+.img {
+  width: 185px;
+  height: 27px;
+  margin-top: 10px;
+}
+
+.Tehlukesizlik {
+  text-align: start;
+}
+
+:where(.css-dev-only-do-not-override-1qhpsh8) a {
+  font-size: 24px;
+  color: black;
+  font-weight: 700;
+}
+:where(.css-dev-only-do-not-override-1qhpsh8) a:hover{
+  color: rgba(0, 0, 0, 0.399);
+}
+
+.flex {
+  display: flex ;
+  align-items: center;
+  justify-content: space-between;
+  text-align: start;
+  gap: 30px;
+}
+
+.pad {
+  padding: 0 50px !important;
+  text-align: start;
+}
+.divider {
+  display: none;
+}
+
+.sosial_links,
+.mar {
+  font-size: 16px;
+}
+
+.linkFooter {
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.fs{
+  font:  20px Arial;
+}
+
+
+
+
+@media (max-width: 1199px) {
+  .Tehlukesizlik {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+
+
+  :where(.css-dev-only-do-not-override-1qhpsh8) a {
+    font-size: 20px;
+  }
+
+  .icon {
+    font-size: 25px;
+  }
+
+  .sosial_links {
+    max-width: 900px;
+  }
+
+  .divider {
+    display: block;
+  }
+
+  .sosial_links,
+  .mar {
+    margin: 10px;
+  }
+  .linkFooter {
+    display: flex;
+    justify-content: center !important;
+    align-items: center !important;
+    margin: 0;
+  }
+  :where(.css-dev-only-do-not-override-1qhpsh8).ant-layout-footer {
+    padding-inline: 50px;
+  }
+  .destekXidmeti{
+    padding-right: 150px;
+  }
+}
+
+
+
+@media (max-width: 768px) {
+  .sosial_links {
+    width: 300px;
+    margin: 0 !important;
+  }
+  .linkFooter {
+    justify-content: start !important;
+    margin: 0;
+  }
+  .pad {
+    padding: 20px !important;
+  }
+  .logo {
+    width: 120px !important;
+  }
+  :where(.css-dev-only-do-not-override-1qhpsh8).ant-layout-footer {
+    padding-left: 0px;
+  }
+  :where(.css-dev-only-do-not-override-1qhpsh8).ant-layout-footer {
+    padding-inline: 0px;
+  }
+  .destekXidmeti{
+    padding-right: 0;
+  }
+}

@@ -1,0 +1,165 @@
+.menu-cards {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+}
+
+.menu-card {
+  position: relative;
+  width: 290px;
+  height: 300px;
+  border-radius: 40px;
+  top: 2%;
+  left: 2%;
+  transition: all 0.4s;
+  margin-right: 50px;
+}
+.menu-card .menu-image img {
+  width: 100%;
+  height: 100%;
+  border-radius: 40px;
+}
+
+.menu-first {
+  position: absolute;
+  z-index: 777;
+  transition: all 0.4s;
+}
+.menu-second {
+  position: absolute;
+}
+
+.menu-text {
+  width: 280px;
+  position: absolute;
+  bottom: 7%;
+  left: 2%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  z-index: 999;
+}
+.menu-text p {
+  font-size: 15px;
+  font-weight: bold;
+  color: rgb(234, 230, 230);
+}
+
+.menu-text button {
+  padding: 5px 10px;
+  background-color: yellow;
+  border: none;
+  border-radius: 20px;
+  font-size: 15px;
+  font-weight: bold;
+}
+.menu-hover {
+  visibility: hidden;
+  position: absolute;
+  bottom: -50px;
+  left: 5%;
+}
+.menu-hover h6 {
+  font-size: 15px;
+  font-weight: bold;
+}
+.menu-hover p {
+  color: gray;
+}
+
+.menu-card:hover {
+  width: 290px;
+  height: 250px;
+}
+.menu-card:hover .o-text {
+  visibility: hidden;
+}
+.menu-card:hover .o-hover {
+  visibility: visible;
+}
+.menu-card:hover .o-first {
+  bottom: 5px;
+}
+
+@media (min-width: 576px) {
+  .container {
+    max-width: 540px;
+  }
+}
+
+@media (min-width: 768px) {
+  .menu-card {
+    width: 600px;
+    height: 650px;
+  }
+  .menu-card .menu-image {
+    width: 100%;
+    height: 100%;
+  }
+  .menu-card:hover {
+    width: 600px;
+    height: 550px;
+  }
+  .menu-text p {
+    font-size: 40px;
+  }
+  .menu-hover h6 {
+    font-size: 30px;
+    font-weight: bold;
+  }
+  .menu-hover p {
+    font-size: 25px;
+  }
+  .menu-hover {
+    visibility: hidden;
+    position: absolute;
+    bottom: -80px;
+    left: 5%;
+  }
+  .menu-text button {
+    padding: 15px 20px;
+    font-size: 20px;
+  }
+  .menu-text {
+    width: 100%;
+    justify-content: space-around;
+  }
+}
+
+@media (min-width: 992px) {
+  .menu-card {
+    width: 360px;
+    height: 430px;
+  }
+  .menu-card:hover {
+    width: 360px;
+    height: 380px;
+  }
+  .menu-text p {
+    font-size: 20px;
+  }
+  .menu-hover {
+    margin-top: 50px;
+  }
+  .menu-hover h6 {
+    font-size: 20px;
+  }
+  .menu-hover p {
+    font-size: 18px;
+  }
+  .menu-hover {
+    margin-top: 20px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1140px;
+  }
+}
+
+@media (min-width: 1400px) {
+  .container {
+    max-width: 1320px;
+  }
+}

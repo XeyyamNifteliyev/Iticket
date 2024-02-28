@@ -1,0 +1,75 @@
+.login-form {
+  max-width: 550px;
+  min-height: 350px;
+  margin: auto;
+  background-color: #f8f4f4;
+  overflow: hidden;
+  border-radius: 20px;
+  padding-inline: 30px;
+}
+
+.ant-col {
+  margin: 5px auto 0;
+  z-index: 40;
+}
+.ant-form-item-control-input-content {
+  display: flex;
+  justify-content: space-between;
+}
+.facebook-login-button,
+.google-login-button {
+  color: white;
+  border-radius: 50%;
+  width: 50px !important;
+  height: 50px;
+}
+
+.facebook-login-button svg,
+.google-login-button svg {
+  font-size: 30px !important;
+  padding-top: 10px;
+}
+.facebook-login-button {
+  background-color: blue !important;
+}
+.google-login-button {
+  background-color: red !important;
+}
+
+.facebook-login-button:hover,
+.google-login-button:hover {
+  color: white !important;
+  scale: 1.1;
+}
+
+.daxil-ol {
+  font-size: 30px;
+  font-weight: 700;
+  z-index: 5;
+}
+.daxil-ol::before {
+  content: "";
+  height: 200px !important;
+  width: 100% !important;
+  background-color: #fd0;
+  position: absolute;
+  top: -55px;
+  left: -195px;
+  transform: rotate(-45deg);
+  z-index: -5;
+}
+
+.qeydiyyat-form {
+  margin: auto;
+}
+:where(.css-dev-only-do-not-override-1qhpsh8).ant-btn-primary {
+  background-color: #fd0;
+  color: black;
+  font-weight: 700;
+}
+:where(.css-dev-only-do-not-override-1qhpsh8).ant-btn-primary:hover {
+  background-color: #fd0 !important;
+  color: black !important;
+}
+
+

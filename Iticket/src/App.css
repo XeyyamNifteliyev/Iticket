@@ -1,0 +1,23 @@
+.desktop-menu {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 10px;
+  background-color: #001529;
+}
+
+.mobile-menu {
+  /* display: none; */
+}
+
+@media (max-width: 768px) {
+  .desktop-menu {
+    display: none ;
+  }
+
+  .mobile-menu {
+    display: block;
+    padding: 10px;
+    background-color: #001529;
+  }
+}

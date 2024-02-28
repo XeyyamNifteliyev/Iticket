@@ -1,0 +1,90 @@
+.carouselItem {
+  width: 500px;
+  height: 50vh;
+  margin-right: 250px !important;
+}
+.pop {
+  padding: 0;
+}
+.childproductSlider {
+  background: rgb(255, 255, 255);
+  background: linear-gradient(
+    351deg,
+    rgba(255, 255, 255, 1) 50%,
+    rgba(250, 255, 0, 1) 50%
+  );
+ 
+}
+
+@media (min-width: 768px) {
+  .carouselItem {
+    width: 500px;
+    height: 100vh;
+    margin-right: 380px !important;
+  }
+  .carouselContainer {
+    width: 100%;
+    height: 100vh;
+    padding-top: 150px;
+  }
+}
+
+@media (min-width: 992px) {
+  .carouselCard {
+    padding-right: 150px;
+  }
+
+  .productSlider {
+    padding: 0;
+    margin: 0;
+  }
+
+  .carouselContainer {
+    height: 100vh;
+  }
+  .carouselItem {
+    width: 500px;
+    height: 100vh;
+    margin-right: 180px !important;
+  }
+  .next2 {
+    position: absolute;
+    right: -4%;
+    top: 50%;
+    background-color: yellow;
+    border: none;
+    font-size: 40px;
+    margin-right: 15px;
+    z-index: 999;
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    cursor: pointer;
+  }
+  .prev2 {
+    position: absolute;
+    left: -4%;
+    top: 50%;
+    background-color: yellow;
+    border: none;
+    font-size: 40px;
+    margin-left: 15px;
+    z-index: 999;
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    cursor: pointer;
+  }
+}
+
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1140px;
+  }
+}
+
+@media (min-width: 1400px) {
+  .container {
+    max-width: 1320px;
+  }
+}

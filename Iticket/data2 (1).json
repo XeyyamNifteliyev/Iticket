@@ -1,0 +1,927 @@
+{
+  "tedbirler": [
+    {
+      "id": "1",
+      "ad": "Mert Demir",
+      "tarix": "17 Yanvar 2024",
+      "saat": "21:30",
+      "yer": "Heyder Əliyev adına saray",
+      "qiymet": {
+        "min": 15,
+        "max": 150
+      },
+      "mekanyeri": "Heydər Əliyev Sarayı",
+      "mekanadress": "Şəmsi Bədəlbəyli 98, Bakı, Azərbaycan",
+      "sekil": "/mertesas.png",
+      "arxafon": "/mertarxafon.jpg",
+      "boyuksekil": "/mertcardicinde.jpg",
+      "kiciksekil": "/rybakkicik.png",
+      "yansekil": "/mertyansekil.jpg",
+      "haqqinda": "Azərbaycanda ilk dəfə!“Ateşe düştüm” mahnısı ilə gündəmi zəbt edən Mert Demir, uşaqlıqdan musiqi ilə məşğul olub. Beyoğlu İstanbulda doğulub böyüyən sənətçi, orta məktəbi bitirdikdən sonra xaricə köçür. Daha sonra, 2014 cü ildə məşhur musiqi yarışması olan O Ses Türkiye-yə qatılır və finala qədər yüksəlir. Yarışmadan sonra müxtəlif yerlərdə səhnə alır. Nəhayət, 2017 ci ildə FadeOut music ilə razılaşaraq, profesional səhnə almağa başlayır. Həmin ilin son aylarında isə, söz və musiqisi özünə aid olan “Uyan” adlı ilk sinqılını yayınlayır. Mert Demir eyni zamanda söz yazarı, prodüser və rejissordur. Müğənni, səhnə performansı, pop, bedroom pop, R&B və arabesk kimi müxtəlif tərz musiqi seçimləri ilə zamanın nəbzini tutmağı bacarır. 2021 ci ildə Melike Şahin ilə birlikdə yayınladığı “Pusulam Rüzgar” adlı mahnı, böyük bəyəni toplayır. Noyabr 2022 tarixində isə Mabel Matiz ilə birlikdə yayınladığı “Antidepresan” adlı mahnı dönəmin ən çox dinlənən parçalarından oldu. Qeyd edək ki, bir çox mükafat alan bu mahnının musiqi yazarlığı və produserliyi Mert Demire, sözləri isə Mert Demir və Mabel Matizə aiddir. Mert Demirin “İkimize birden” ilə başlayan EP seriyası, ”Ateşe düştüm” və “Dön desem” ilə davam edir. EP-nin çıxış mahnısı olan və qısa zamanda dillər əzbəri olan “Ateşe düştüm” ün söz və musiqisi də həmçinin Mert Demir və Mela Bedelə aiddir. Gənc müğənninin istedadları bununla da bitmir, o gitara, elektron gitara, pianino kimi musiqi alətlərində ifa etməyi bacarır. Hazırda kariyerasının yüksəliş illərini yaşayan Mert Demir, bəzi canlı konsert və studio performanslarını dijital platformalarda yayınlayır."
+    },
+    {
+      "id": "2",
+      "ad": "Alexander Rybak",
+      "tarix": "28 Fevral 2024",
+      "saat": "21:30",
+      "yer": "Heyder Əliyev adina saray",
+      "qiymet": {
+        "min": 35,
+        "max": 200
+      },
+      "mekanyeri": "Heydər Əliyev Sarayı",
+      "mekanadress": "Şəmsi Bədəlbəyli 98, Bakı, Azərbaycan",
+      "sekil": "/rybakesas.png",
+      "arxafon": "/rybakarxafon.jpg",
+      "boyuksekil": "/rybakboyuks.jpg",
+      "kiciksekil": "/rybakkicik.png",
+      "yansekil": "/rybakyansekil.jpg",
+      "haqqinda": "Azərbaycan Dövlət Simfonik Orkestrinin dirijoru Mustafa Mehmandarovun rəhbərliyi altında 90-dan çox peşəkar musiqiçidən ibarət Scorrendo Orkestrinin Bakının ilk, unikal, Hollivud saundtreklərin müəllif ifası ilə sevimli filmlərinizin ab-havasına qərq olun.Bu, Scorrendo orkestrinin Heydər Əliyev Sarayın səhnəsində debütüdür və inanılmaz dərəcədə təsir edici olacağını vəd edir. Siz Con Williams, Hans Zimmer, Alan Silvestri, Nino Rota və s. kimi məşhur müəlliflərin əsərlərini eşidəcəksiniz. konserti Bakıda 17 fevral 2024-cü ildə Heydər Əliyev Sarayında keçiriləcək."
+    },
+    {
+      "id": "3",
+      "ad": "Old City JAZZ nights",
+      "tarix": "06 Fevral 2024",
+      "saat": "21:30",
+      "yer": "Best Place",
+      "qiymet": {
+        "min": 8,
+        "max": 8
+      },
+      "mekanyeri": "Şəkixanovlar Evi",
+      "mekanadress": "Şəki şəhəri, Hikmət Ələkbərzadə küçəsi, 21",
+      "sekil": "/jazzesas.png",
+      "arxafon": "/jazzarxafon.jpg",
+      "boyuksekil": "/jazzboyuk.jpg",
+      "kiciksekil": "/jazzkicik.png",
+      "yansekil": "/jazzyan.jpg",
+      "haqqinda": "Azərbaycan Dövlət Simfonik Orkestrinin dirijoru Mustafa Mehmandarovun rəhbərliyi altında 90-dan çox peşəkar musiqiçidən ibarət Scorrendo Orkestrinin Bakının ilk, unikal, Hollivud saundtreklərin müəllif ifası ilə sevimli filmlərinizin ab-havasına qərq olun.Bu, Scorrendo orkestrinin Heydər Əliyev Sarayın səhnəsində debütüdür və inanılmaz dərəcədə təsir edici olacağını vəd edir. Siz Con Williams, Hans Zimmer, Alan Silvestri, Nino Rota və s. kimi məşhur müəlliflərin əsərlərini eşidəcəksiniz. konserti Bakıda 17 fevral 2024-cü ildə Heydər Əliyev Sarayında keçiriləcək."
+    },
+    {
+      "id": "4",
+      "ad": "HR Global Forum",
+      "tarix": "21 Aprel 2024",
+      "saat": "18:30",
+      "yer": "Baki Konqres Merkezi",
+      "qiymet": {
+        "min": 50,
+        "max": 130
+      },
+      "mekanyeri": "Bakı Konqres Mərkəzi",
+      "mekanadress": "Təbriz Küçəsi, Bakı, Azərbaycan",
+      "sekil": "/hresas.png",
+      "arxafon": "/hrarxafon.jpg",
+      "boyuksekil": "/hrboyuk.jpg",
+      "kiciksekil": "/hrkicik.png",
+      "yansekil": "/hryan.jpg",
+      "haqqinda": "Azərbaycanda Möhtəşəm Platforma: Dünyaca məşhur HR Mütəxəssisləri bir arada! HR Global Forum İnsan Resursları sahəsində çalışan və ya gələcəkdə bu sahədə karyerasını qurmaq istəyən hər bir şəxsi möhtəşəm platformaya dəvət edirik. Global HR Forum-da iştirak edən hər bir kəsə İngiltərədə akkreditasiya olunmuş beynəlxalq təşkilat tərəfindən HR Beynəlxalq Sertifikat təqdim olunacaq. Bakı Konqres Mərkəzində keçiriləcək Forumda İnsan Resursları sahəsi üzrə yerli və xarici ekspert və mütəxəssislərin iştirakı baş tutacaq. Forumda iştirak edən spikerlərin siyahısı: Türkiyə Cümhuriyyəti Təhsil Nazirliyinin Ali Təhsil və Xaricdə Təhsil Bölməsinin Baş Direktoru Fethi Fahri Kaya, Türkiyə Hava Yolları HR Baş Direktoru Abdulkerim Çay, Hayat Rusiya Şirkətinin HR Direktoru Könül Rəhimova Çelik və digər beynəlxalq səviyyəli HR mütəxəssisləri. 1 Panel: İnsan Resurslarının İdarə edilməsi və müasir beynəlxalq tendensiyalar Distant fəaliyyət və hibrid iş modelləri İnsan Resurslarının idarə edilməsində “neuroscience” əhəmiyyəti İxtisas Təhsilindən Əlavə: istedadların və bacarıqların kəşf edilməsi İnsan mərkəzli ESG: İR-da Sosial Məsuliyyət Mədəniyyətinin tətbiq edilməsi 2 Panel: Süni İntellekt və HR sistemi İR sistemində Süni İntellektin tədbiqi: effektivlik və riskər Avtomatlaşdırılmış İR sisteminin inkişaf dinamikası İR-da etik süni intellekt: qərar qəbul edilmə prossesində ədalət və şəffaflığın təmin edilməsi İR 4.0: İnsan Resursları strategiyalarının 4-cü sənaye inqilabına uyğunlaşdırılması QEYD 1: 12:30-dan 14:00-a qədər fasilə nəzərdə tutulmuşdur. QEYD 2: Bilet qiymətinə nahar daxil deyildir. Tədbir qonaqları “Sürətli Keçid” xidmətini əldə etməklə Bakı Konqres Mərkəzinin B girişindən Mərkəzin ərazisinə daha rahat və sürətli keçid edə bilərlər. Bu əlavə xidmət bileti tədbirə giriş üçün nəzərdə tutulmayıb. Tədbirə daxil olmaq üçün tədbir bileti şərtlərinə riayət etmək və “Sürətli Keçid” xidmətindən yararlana bilərsiniz."
+    },
+    {
+      "id": "5",
+      "ad": "Hollywood Soundtracks",
+      "tarix": "17 Fevral 2024",
+      "saat": "19:00",
+      "yer": "Heyder Əliyev adina saray",
+      "qiymet": {
+        "min": 30,
+        "max": 140
+      },
+      "mekanyeri": "Heyder Əliyev adina saray",
+      "mekanadress": "Bülbül prospekti 35, Bakı, Azərbaycan",
+      "sekil": "/holyesas.jpg",
+      "arxafon": "-",
+      "boyuksekil": "/holyboyuk.jpg",
+      "kiciksekil": "/holykicik.png",
+      "yansekil": "/holyyan.jpg",
+      "haqqinda": "Azərbaycan Dövlət Simfonik Orkestrinin dirijoru Mustafa Mehmandarovun rəhbərliyi altında 90-dan çox peşəkar musiqiçidən ibarət Scorrendo Orkestrinin Bakının ilk, unikal, Hollivud saundtreklərin müəllif ifası ilə sevimli filmlərinizin ab-havasına qərq olun.Bu, Scorrendo orkestrinin Heydər Əliyev Sarayın səhnəsində debütüdür və inanılmaz dərəcədə təsir edici olacağını vəd edir. Siz Con Williams, Hans Zimmer, Alan Silvestri, Nino Rota və s. kimi məşhur müəlliflərin əsərlərini eşidəcəksiniz. konserti Bakıda 17 fevral 2024-cü ildə Heydər Əliyev Sarayında keçiriləcək."
+    }
+  ],
+  "turizm": [
+    {
+      "id": "6",
+      "ad": "Şəkixanovlar Evi",
+      "tarix": "23 Fevral 2024",
+      "saat": "18:00",
+      "yer": "Şəkixanovlar Evi",
+      "qiymet": {
+        "min": 1,
+        "max": 10
+      },
+      "mekanyeri": "Şəkixanovlar Evi",
+      "mekanadress": "Şəki şəhəri, Hikmət Ələkbərzadə küçəsi, 21",
+      "sekil": "/xanovesas.png",
+      "arxafon": "/xanovarxafon.jpg",
+      "boyuksekil": "/xanovboyuk.jpg",
+      "kiciksekil": "/xanovkicik.jpeg",
+      "yansekil": "/xanovyan.jpg",
+      "haqqinda": "Şəkixanovların evi - dekorativ elementlərlə zəngin, saray tipli yaşayış evidir. Qaladan bir qədər uzaqda, Şəki Xan sarayından qərbdə, \"Otaq eşiyi\" məhəlləsində şəbəkə üsulu ilə tikilib. Tikilinin interyerindəki divar naxışları Xan sarayının divarına naxışların vurulmağa başlandığı dövrə, XVIII əsrin ikinci yarısına aiddir. Şəkixanovların evində Şəki xanlarının qohumları yaşayıb.\nİrəli uzanmış, düzbucaqlı formada olan ikimərtəbəli bina çiy kərpicdən tikilib. Evin hər bir mərtəbəsi üç otaqdan və iki böyük olmayan dəhlizdən ibarət olub, birinci mərtəbədən ikinci mərtəbəyə qalxan pillələr yerləşən otaqlarla birləşir. Birinci mərtəbədəki otaqlar qış yaşayış otaqları olduğu üçün burada \"buxarılar\" yerləşdirilib.\nDaxili dekorativ elementlərinin zənginliyi ilə Şəkixanovların evi saray tipli evləri xatırladır. Belə ki, Şəkixanovların evi ilə ondan çox da uzaqda yerləşməyən Şəki Xan sarayı arasında uyğunluqlar kifayət qədərdir.\nBinanın tikintisində gildən istifadə olunub ki, bu da otaqları yayda sərin, qışda isə isti saxlayıb. Otaqlar öz mürəkkəb və rəngarəng tərtibatı ilə fərqlənir. Burada şəbəkə formalı pəncərələrdən süzülən günəş şüaları, rəngarəng rəsmlər, müxtəlif qızıl suyu ilə çəkilmiş naxışlar, fərqli fiqurlarla yığılmış güzgülər və digər bəzək əşyaları qoyulub."
+    },
+    {
+      "id": "7",
+      "ad": "Şəki Xan Sarayı",
+      "tarix": "24 Fevral 2024",
+      "saat": "18:00",
+      "yer": "Şəki Xan Sarayı",
+      "qiymet": {
+        "min": 1,
+        "max": 10
+      },
+      "mekanyeri": "Şəki Xan Sarayı",
+      "mekanadress": "Mirzə Fətəli Axundov, Şəki, AZ5503",
+      "sekil": "/sekiesas.jpg",
+      "arxafon": "-",
+      "boyuksekil": "/sekiboyuk.jpg",
+      "kiciksekil": "/sekikicik.jpeg",
+      "yansekil": "/sekiyan.jpg",
+      "haqqinda": "Şəki Xan Sarayı – “Yuxarı Baş” Milli Tarix-Memarlıq Qoruğunun ərazisində yerləşən dünya əhəmiyyətli tarix və memarlıq abidəsidir.\nÜmumdünya İrs Komitəsinin 43-cü Sessiyasında Şəki şəhərinin tarixi hissəsi ilə birgə “Xan Sarayı” adı ilə UNESCO Tərəfdən Əhəmiyyətli İrs Siyahısına daxil edilmişdir. Saray UNESCO tərəfindən beynəlxalq səviyyəli memarlıq xüsusiyyətləri ilə diqqət çəkir. \nQuba şəhərindən sonra ikinci əsas turizm mənbəyi olan Şəki, öz əhəmiyyətini gələcəkdə də qorumağa davam edir.\nTürk və İslam mədəniyyətinin memarlıq incilərindən olan Şəki Xan Sarayı, 18-ci əsrin əvvəlində inşa edilib. Şəki xanları vaxtilə xan qalası olaraq istifadə olunan sarayda danışıqların və qonağın qarşılanması üçün xüsusi otaqlar fəaliyyət göstərir.\nİcra olunan restavratsiya işləri nəticəsində Şəki Xan Sarayı bütün səmaları ilə bərpa edilib və ziyarətçilərə təqdim edilir."
+    },
+    {
+      "id": "8",
+      "ad": "Lahıc Tarix-Diyarşünaslıq Muzeyi",
+      "tarix": "24 Fevral 2024",
+      "saat": "18:00",
+      "yer": "Lahıc Tarix-Diyarşünaslıq Muzeyi",
+      "qiymet": {
+        "min": 2,
+        "max": 3
+      },
+      "mekanyeri": "Lahıc Tarix-Diyarşünaslıq Muzeyi",
+      "mekanadress": "",
+      "sekil": "/lahicesas.jpg",
+      "arxafon": "-",
+      "boyuksekil": "/lahicboyuk.jpg",
+      "kiciksekil": "/lahickicik.png",
+      "yansekil": "/lahicyan.jpg",
+      "haqqinda": "1985-ci ildə yaradılmış Lahıc Tarix-Diyarşünaslıq Muzeyinin fondunda 700-dən çox maddi-mədəniyyət nümunəsi mühafizə olunur. 5 zaldan ibarət ekspozisiyada Lahıcın orta əsrlər dövrünü xarakterizə edən maddi-mədəniyyət nümunələri nümayiş olunur. Məzmun və forma zənginliyinə görə seçilən bu eksponatlar arxeoloji, etnoqrafik, numizimatik, dekorativ-tətbiqi sənəti nümunələrindən ibarətdir. Muzeydə xüsusilə Lahıc ustalarının mürəkkəb və incə naxışlarla bəzədikləri misgərlik sənəti nümunələri, dəmirçilik sənətinə aid əmək alətləri və s. sərgilənir."
+    },
+    {
+      "id": "10",
+      "ad": "Atəşgah məbədi",
+      "tarix": "24 Fevral 2024",
+      "saat": "18:00",
+      "yer": "Atəşgah məbədi",
+      "qiymet": {
+        "min": 1,
+        "max": 10
+      },
+      "mekanyeri": "Atəşgah məbədi",
+      "mekanadress": "Atamoğlan Rzayev, Bakı, Suraxanı, AZ1049",
+      "sekil": "/atesesas.jpg",
+      "arxafon": "-",
+      "boyuksekil": "/atesboyuk.jpg",
+      "kiciksekil": "/ateskicik.jpeg",
+      "yansekil": "/atesyan.jpg",
+      "haqqinda": "“Atəşgah məbədi” – Azərbaycan ərazisindəki Abşeron yarımadasında, Bakı şəhərindən 30 km aralıda, Suraxanı rayonundakı Suraxanı kəndi yaxınlığında yerləşən, müxtəlif dövrlərdə zərdüştilər, hinduistlər və siqhlər tərəfindən ibadətgah kimi istifadə edilmiş alov məbədidir. XVII-XVIII əsrlərdə təbii qaz çıxışı olan sönməz alovların yerində inşa edilmiş məbədin adı “Alov evi” və ya “Alov yeri” anlamı verir.\n\nTarixi mənbələrdə yazıldığına görə, qədim atəşpərəstlər məbədinin qalıqları üzərində, təbii qazın çıxdığı əbədi məşəlin yerində XVII-XVIII əsrlərdə inşa edilmiş bu məbəd 24 hücrədən və mərkəzi səcdəgahdan ibarətdir. Tarixçilərin yazdığına görə, müxtəlif vaxtlarda tikilmiş hücrələr və ibadətgah XVII əsrin sonlarında ümumi hasara alınmışlar. Məbədin ən erkən tikilişi təqribən eramızın 1713-cü ilinə aid edilir. Mərkəzi məbəd-səcdəgah isə 1810-cu ildə tikilmişdir. XIX əsrin əvvəllərində məbəd artıq hazırkı görünüşünü almış və dəyişdirilmədən dövrümüzədək qalmışdır.\n\nYerli memarlıq ənənələri üslubunda tikilmiş “Atəşgah” özündə qədim od səcdəgahlarının cizgilərini birləşdirir. Hazırda dünyada yalnız iki yerdə — Şimali Hindistanda və Azərbaycanda belə bir atəşgah mövcuddur. Atəşpərəstlərin ən ali sitayiş və ibadət məbədi — ziyarətgahı isə məhz Azərbaycandakı Suraxanı Atəşgahıdır.\n\nAzərbaycan Prezidentinin sərəncamına əsasən kompleks ətrafında açıq səma altında muzey yaradılıb, kompleks Dövlət Tarix-Memarlıq Qoruğu elan edilib.\n\nSərbəst (Ödənişsiz) giriş\nAzərbaycan Respublikasında yaşayan aztəminatlı ailələrin üzvləri;\n- əlillər;\n- sağlamlıq imkanları məhdud şəxslər;\n- 18 yaşınadək uşaqlar;\n- müharibə veteranları"
+    },
+    {
+      "id": "11",
+      "ad": "““Yanar dağ” Dövlət Tarix-Mədəniyyət və Təbiət Qoruğu ",
+      "tarix": "2 Fevral 2024",
+      "saat": "17:00",
+      "yer": "“Yanar dağ” Dövlət Tarix-Mədəniyyət və Təbiət Qoruğu",
+      "qiymet": {
+        "min": 1,
+        "max": 910
+      },
+      "mekanyeri": "Yanar dağ” Dövlət Tarix-Mədəniyyət və Təbiət Qoruğu",
+      "mekanadress": "Məmmədli-Digah şossesi",
+      "sekil": "/tebietesas.jpg",
+      "arxafon": "-",
+      "boyuksekil": "/tebietboyuk.jpg",
+      "kiciksekil": "/tebietkicik.jpeg",
+      "yansekil": "/tebietyan.jpg",
+      "haqqinda": "“Atəşgah məbədi” – Azərbaycan ərazisindəki Abşeron yarımadasında, Bakı şəhərindən 30 km aralıda, Suraxanı rayonundakı Suraxanı kəndi yaxınlığında yerləşən, müxtəlif dövrlərdə zərdüştilər, hinduistlər və siqhlər tərəfindən ibadətgah kimi istifadə edilmiş alov məbədidir. XVII-XVIII əsrlərdə təbii qaz çıxışı olan sönməz alovların yerində inşa edilmiş məbədin adı “Alov evi” və ya “Alov yeri” anlamı verir.\n\nTarixi mənbələrdə yazıldığına görə, qədim atəşpərəstlər məbədinin qalıqları üzərində, təbii qazın çıxdığı əbədi məşəlin yerində XVII-XVIII əsrlərdə inşa edilmiş bu məbəd 24 hücrədən və mərkəzi səcdəgahdan ibarətdir. Tarixçilərin yazdığına görə, müxtəlif vaxtlarda tikilmiş hücrələr və ibadətgah XVII əsrin sonlarında ümumi hasara alınmışlar. Məbədin ən erkən tikilişi təqribən eramızın 1713-cü ilinə aid edilir. Mərkəzi məbəd-səcdəgah isə 1810-cu ildə tikilmişdir. XIX əsrin əvvəllərində məbəd artıq hazırkı görünüşünü almış və dəyişdirilmədən dövrümüzədək qalmışdır.\n\nYerli memarlıq ənənələri üslubunda tikilmiş “Atəşgah” özündə qədim od səcdəgahlarının cizgilərini birləşdirir. Hazırda dünyada yalnız iki yerdə — Şimali Hindistanda və Azərbaycanda belə bir atəşgah mövcuddur. Atəşpərəstlərin ən ali sitayiş və ibadət məbədi — ziyarətgahı isə məhz Azərbaycandakı Suraxanı Atəşgahıdır.\n\nAzərbaycan Prezidentinin sərəncamına əsasən kompleks ətrafında açıq səma altında muzey yaradılıb, kompleks Dövlət Tarix-Memarlıq Qoruğu elan edilib.\n\nSərbəst (Ödənişsiz) giriş\nAzərbaycan Respublikasında yaşayan aztəminatlı ailələrin üzvləri;\n- əlillər;\n- sağlamlıq imkanları məhdud şəxslər;\n- 18 yaşınadək uşaqlar;\n- müharibə veteranları"
+    }
+  ],
+  "tamasalar": [
+    {
+      "id": "12",
+      "ad": "Maşa və Ayı",
+      "tarix": "17 Fevral 2024",
+      "saat": "18:00",
+      "yer": "Azərbaycan Dövlət Kukla Teatrı",
+      "qiymet": {
+        "min": 5,
+        "max": 5
+      },
+      "mekanyeri": "Azərbaycan Dövlət Kukla Teatrı",
+      "mekanadress": "Neftçilər prospekti 36, Bakı, Azərbaycan",
+      "sekil": "/masaesas.png",
+      "arxafon": "/masafon.jpg",
+      "boyuksekil": "/masaboyuk.jpg",
+      "kiciksekil": "/masakicik.jpeg",
+      "yansekil": "/masayan.png",
+      "haqqinda": "Azərbaycan Dövlət Kukla Teatrının repertuarındakı baxımlı nümunələrdən biri də son illər çizgi filmi kimi populyarlaşan “Maşa və Ayı” nağılı əsasında hazırlanan eyniadlı tamaşadır. Klassik kukla elementlərindən istifadə olunmaqla hazırlanan musiqili tamaşada sadə həllə çalışılıb. Yaradıcı heyət animasiya filmindən fərqli olaraq balacalara komik hadisələr, tamaşanın qəhrəmanı Maşanın şıltaqlıqları fonunda həm də yüksək tərbiyəvi keyfiyyətlər aşılamağa çalışıb. Müvafiq lisenziya əsasında ərsəyə gələn tamaşada müxtəlif ölçülü kuklalara və sadə səhnə tərtibatına üstünlük verilib."
+    },
+    {
+      "id": "13",
+      "ad": "Durna balığı",
+      "tarix": "11 Fevral 2024",
+      "saat": "18:00",
+      "yer": "Azərbaycan Dövlət Kukla Teatrı",
+      "qiymet": {
+        "min": 5,
+        "max": 5
+      },
+      "mekanyeri": "Azərbaycan Dövlət Kukla Teatrı",
+      "mekanadress": "Neftçilər prospekti 36, Bakı, Azərbaycan",
+      "sekil": "/durnaesas.png",
+      "arxafon": "/durnafon.jpg",
+      "boyuksekil": "/durnaboyuk.jpg",
+      "kiciksekil": "/durnakicik.jpeg",
+      "yansekil": "/durnayan.jpg",
+      "haqqinda": "Rus folkloruna müraciət edən yaradıcı heyət “Durna balığının əmri ilə” adlı nağılın motivləri əsasında “Durna balığı” tamaşasını hazırlayıb. Teatrın rus bölməsində hazırlanan bu tamaşa müxtəlif kukla mexanizmləri və canlı aktyor oyununun sintezindən ərsəyə gəlib. Tamaşada balaca teatrsevərlər əsl nağıllar aləminə düşəcək, klassik qəhrəmanları tanıyacaqlar."
+    },
+    {
+      "id": "14",
+      "ad": "Adamlar və Siçanlar",
+      "tarix": "16 Fevral 2024",
+      "saat": "19:00",
+      "yer": "M Teatr",
+      "qiymet": {
+        "min": 10,
+        "max": 20
+      },
+      "mekanyeri": "M Teatr",
+      "mekanadress": "Tbilisi prospekti 76, QANUN Nəşriyyatının binası",
+      "sekil": "/adamesass.jpg",
+      "arxafon": "/adamfin.png",
+      "boyuksekil": "/adamboyuk.jpg",
+      "kiciksekil": "/adamkicik.png",
+      "yansekil": "/adamyan.jpg",
+      "haqqinda": "Adamlar necə siçana çevrilir?.. Siçanlar nə vaxt yırtıcı olur?.. Bir parça torpaq, bir loxma çörək,  yoxsa bir ömürlük məhkumluq?.. Adam kimi yaşamaq, yoxsa?!."
+    },
+    {
+      "id": "15",
+      "ad": "Qırmızı papaq ",
+      "tarix": "10 Fevral 2024",
+      "saat": "19:00",
+      "yer": "Azərbaycan Dövlət Akademik Musiqili Teatrı",
+      "qiymet": {
+        "min": 7,
+        "max": 7
+      },
+      "mekanyeri": "Azərbaycan Dövlət Akademik Musiqili Teatrı",
+      "mekanadress": "Zərifə Əliyeva Küçəsi 8, Bakı, Azərbaycan",
+      "sekil": "/papaqesas.png",
+      "arxafon": "/papaqfon.jpg",
+      "boyuksekil": "/papaqboyuk.jpg",
+      "kiciksekil": "/papaqkicik.png",
+      "yansekil": "/papaqyan.jpg",
+      "haqqinda": "Azərbaycan Dövlət Akademik Musiqili Teatrının balaca teatrsevərlər üçün nəzərdə tutduğu “Qırmızı papaq” (Emin Sabitoğlu, Yevqeniy Şvarts) tamaşası “Qırmızı papaq” nağılının motivləri əsasında hazırlanıb. Bütün nağıl-tamaşalarda olduğu kimi, bu tamaşanın da süjet xəttində xeyirlə şərin mübarizəsi dayanır, lakin şəhər nağıllarından bir az fərqi var. Tamaşa 2019-cu ilin mayın 15-də Musiqili Teatrın səhnəsinə qoyulub, və quruluşçu rejissoru Azərbaycanın Əməkdar artisti Boris Qrafkindir."
+    },
+    {
+      "id": "16",
+      "ad": "BİR GECƏNİN NAĞILI",
+      "tarix": "9 Fevral 2024",
+      "saat": "18:00",
+      "yer": "M Teatr",
+      "qiymet": {
+        "min": 10,
+        "max": 20
+      },
+      "mekanyeri": "M Teatr",
+      "mekanadress": "ZTbilisi prospekti 76, QANUN Nəşriyyatının binası",
+      "sekil": "/geceesas.jpg",
+      "arxafon": "/gecefon.png",
+      "boyuksekil": "/geceboyuk.jpg",
+      "kiciksekil": "/gecekicik.png",
+      "yansekil": "/geceyan.png",
+      "haqqinda": "Gənc bir qız, sevmədiyi birisinə nişanlanmasın deyə evdən qaçır. Gecə parkda bir oğlanla rastlaşır. Bu təsadüfi görüş hər ikisinin həyatını dəyişdirir"
+    }
+  ],
+  "usaqlar": [
+    {
+      "id": "17",
+      "ad": "Elçin Abbasovun İnteraktiv Elm Muzeyi",
+      "tarix": "17 Fevral 2024",
+      "saat": "18:00",
+      "yer": "Hədəf Liseyi",
+      "qiymet": {
+        "min": 10,
+        "max": 20
+      },
+      "mekanyeri": "Hədəf Liseyi",
+      "mekanadress": "Hədəf Liseyi",
+      "sekil": "/elmesas.png",
+      "arxafon": "/elmfon.jpg",
+      "boyuksekil": "/elmboyuk.jpg",
+      "kiciksekil": "/elmkicik.png",
+      "yansekil": "/elmyan.jpg",
+      "haqqinda": "İnteraktiv Elm Muzeyində 150-dən çox eksponat var. Burada siz elmin ancaq testlərdən ibarət olmadığını və həyatın suallarına cavab olduğunu görəcəksiniz. Siz muzeyimizdə sənaye inqlabının təməlini qoyan buxar mühərrikindən tutmuş, ən müasir ion mühərrikini işlək vəziyyətdə görə biləcəksiniz. Elektromaqnetizmi, sərbəstdəyişməni, Arximed qanununu, Tesla babinini, vakumun təsirini, işığın və səsin xüsusiyyətlərini və bir çox fiziki anlamları eksperimentlərdə görə biləcəksiniz."
+    },
+    {
+      "id": "18",
+      "ad": "Lazer ishiq shousu",
+      "tarix": "18 Fevral 2024",
+      "saat": "18:25",
+      "yer": "Hədəf Liseyi",
+      "qiymet": {
+        "min": 8,
+        "max": 35
+      },
+      "mekanyeri": "Bakı Musiqi Akademiyası nəzdində Opera Studiyasının Konsert salonu",
+      "mekanadress": "Şəmsi Bədəlbəyli 98, Bakı, Azərbaycan",
+      "sekil": "/lazeresas.png",
+      "arxafon": "/lazerfon.jpg",
+      "boyuksekil": "/lazerboyuk.jpg",
+      "kiciksekil": "/lazerkicik.png",
+      "yansekil": "/lazeryan.jpg",
+      "haqqinda": "18 fevral saat 11.00-da uşaqları götürün və Opera Studiyasında bütün ailə üçün 'Dünya ətrafında' adlı yeni lazer işıq şousuna gəlin. 'Show1Baku' rəqqaslarının xoreoqrafiyası ilə birgə parlaq işıqlandırma Türkiyə, Çin, Qədim Roma mədəniyyətinə yeni baxış bəxş edəcək, hətta sizi kosmosa aparacaq!\nPULSUZ GİRİŞ: 5 yaşa qədər uşaqlar üçün (valideyn üçün bilet zəruridir)"
+    },
+    {
+      "id": "19",
+      "ad": "Cırtdan Şou - Novruz Macərası",
+      "tarix": "23 Mart 2024",
+      "saat": "13:25",
+      "yer": "Bakı Konqres Mərkəzi",
+      "qiymet": {
+        "min": 8,
+        "max": 40
+      },
+      "mekanyeri": "Bakı Konqres Mərkəzi",
+      "mekanadress": "Təbriz Küçəsi, Bakı, Azərbaycan",
+      "sekil": "/cirtdanesas.png",
+      "arxafon": "/cirtdanfon.jpg",
+      "boyuksekil": "/cirtdanboyuk.jpg",
+      "kiciksekil": "/cirtdankicik.png",
+      "yansekil": "/cirtdanyan.png",
+      "haqqinda": "18 fevral saat 11.00-da uşaqları götürün və Opera Studiyasında bütün ailə üçün 'Dünya ətrafında' adlı yeni lazer işıq şousuna gəlin. 'Show1Baku' rəqqaslarının xoreoqrafiyası ilə birgə parlaq işıqlandırma Türkiyə, Çin, Qədim Roma mədəniyyətinə yeni baxış bəxş edəcək, hətta sizi kosmosa aparacaq!\nPULSUZ GİRİŞ: 5 yaşa qədər uşaqlar üçün (valideyn üçün bilet zəruridir)"
+    },
+    {
+      "id": "20",
+      "ad": "Cırtdan Şou - Novruz Macərası",
+      "tarix": "24 Mart 2024",
+      "saat": "16:30",
+      "yer": "Bakı İdman Sarayı",
+      "qiymet": {
+        "min": 12,
+        "max": 12
+      },
+      "mekanyeri": "Bakı İdman Sarayı",
+      "mekanadress": "26a Neftçilər pr, Bakı",
+      "sekil": "/cirtdanesas.png",
+      "arxafon": "/cirtdanfon.jpg",
+      "boyuksekil": "/cirtdanboyuk.jpg",
+      "kiciksekil": "/cirtdankicik.png",
+      "yansekil": "/cirtdanyan.png",
+      "haqqinda": "Nağıl qəhrəmanları 'Kosanın sərgüzəştləri' adlı özəl proqramla 'Novruz' şənliklərində uşaqların görüşünə gələcək. Müasir rəqslər və oyunlarımız, milli şou-interpretasiyasında böyüklərin də iştirak etmələri şərti ilə tamaşaçıların diqqətinə çatdırılacaq. Bu bayram şənliklərinin sonunda hər bir iştirakçıya yüksək keyfiyyətli şirniyyat dəsti təqdim olunacaq. Bir bilet - bir valideyn və bir uşaq üçün keçərlidir. Tədbir 3-14 yaşlı uşaqlar üçün nəzərdə tutulub."
+    },
+    {
+      "id": "21",
+      "ad": "Mavi traktor",
+      "tarix": "24 Mart 2024",
+      "saat": "16:30",
+      "yer": "Bakı İdman Sarayı",
+      "qiymet": {
+        "min": 11,
+        "max": 55
+      },
+      "mekanyeri": "Bakı Musiqi Akademiyası nəzdində Opera Studiyasının Konsert salonu",
+      "mekanadress": "Şəmsi Bədəlbəyli 98, Bakı, Azərbaycan",
+      "sekil": "/siniesas.png",
+      "arxafon": "/sinifon.jpg",
+      "boyuksekil": "/siniboyuk.jpg",
+      "kiciksekil": "/sinikicik.png",
+      "yansekil": "/siniyan.png",
+      "haqqinda": "Aprelin 21-də Opera Studiyasının səhnəsində bütün ailə üçün interaktiv musiqili “Mavi traktor” tamaşası baş tutacaq. Uşaqlarınızı sevimli personajlarının yeni sərgüzəştləri ilə tanış edin!"
+    }
+  ],
+  "yenilik": [
+    {
+      "id": "22",
+      "ad": "ÇELİK ",
+      "tarix": "05 May 2024",
+      "saat": "21:30",
+      "yer": "Heydər Əliyev Sarayı",
+      "qiymet": {
+        "min": 20,
+        "max": 140
+      },
+      "mekanyeri": "Heydər Əliyev Sarayı",
+      "mekanadress": "Şəmsi Bədəlbəyli 98, Bakı, Azərbaycan",
+      "sekil": "/celikesas.png",
+      "arxafon": "/celikfon.jpg",
+      "boyuksekil": "/celikboyuk.jpg",
+      "kiciksekil": "/celikkicik.png",
+      "yansekil": "/celikyan.jpg",
+      "haqqinda": "İyirmidən çox albom müəllifi olan sevilən sənətçi ÇELİK 5 may tarixində Heydər Əliyev Sarayında möhtəşəm konsert proqramı ilə sevənlərinin qarşısında olacaq."
+    },
+    {
+      "id": "23",
+      "ad": "Seksendört ",
+      "tarix": "05 May 2024",
+      "saat": "18:05",
+      "yer": "Heydər Əliyev Sarayı",
+      "qiymet": {
+        "min": 20,
+        "max": 140
+      },
+      "mekanyeri": "Bakı İdman Sarayı",
+      "mekanadress": "26a Neftçilər pr, Bakı",
+      "sekil": "/84esas.png",
+      "arxafon": "/84fon.jpg",
+      "boyuksekil": "/84boyuk.jpg",
+      "kiciksekil": "/84kicik.png",
+      "yansekil": "/84yan.jpg",
+      "haqqinda": "Ölürüm Hasretinle, Anlayamazsın, Kendime Yalan Söyledim” kimi mahnıları ilə musiqi dünyasına damğa vuran Qrup Seksendört, Event Office təşkilatçılığı ilə ilk dəfə Bakıda sevənləri ilə görüşür."
+    },
+    {
+      "id": "24",
+      "ad": "Katya Lel. Böyük solo konsert ",
+      "tarix": "14 Aprel 2024",
+      "saat": "20:00",
+      "yer": "Heydər Əliyev Sarayı",
+      "qiymet": {
+        "min": 40,
+        "max": 150
+      },
+      "mekanyeri": "Heydər Əliyev Sarayı",
+      "mekanadress": "Bülbül prospekti 35, Bakı, Azərbaycan",
+      "sekil": "/katyaesas.png",
+      "arxafon": "/katyafon.jpg",
+      "boyuksekil": "/katyaboyuk.jpg",
+      "kiciksekil": "/katyakicik.png",
+      "yansekil": "/katyayan.jpg",
+      "haqqinda": "Rusiyalı müğənni və bəstəkar «Мой мармеладный», «Огни», «Я по тебе скучаю», «Горошины», «Долетай», «Две капельки»  kimi məşhur hitlərin ifaçısı Katya Lel 14 aprel tarixində Heydər Əliyev Sarayının səhnəsində çıxış edəcək."
+    },
+    {
+      "id": "25",
+      "ad": "Mabel Matiz ",
+      "tarix": "14 Aprel 2024",
+      "saat": "21:30",
+      "yer": "Heydər Əliyev Sarayı",
+      "qiymet": {
+        "min": 40,
+        "max": 150
+      },
+      "mekanyeri": "Heydər Əliyev Sarayı",
+      "mekanadress": "Bülbül prospekti 35, Bakı, Azərbaycan",
+      "sekil": "/mabelesas.png",
+      "arxafon": "/mabelfon.jpg",
+      "boyuksekil": "/mabelboyuk.jpg",
+      "kiciksekil": "/mabelkicik.png",
+      "yansekil": "/mabelyan.png",
+      "haqqinda": "Her çıkardığı şarkıyla hit olan, müzik listelerinde her zaman zirvede yer alan Mabel Matiz, 14 Aprel 2024-cü il Bakı Konqres Mərkəzində Azərbaycanlı musiqi sevənlərin qarşısına çıxır. Səsindəki dəyişik tembrlə musiqi dünyasında fərqli yer tutan Mabel Matiz konsertini qaçırmayın."
+    },
+    {
+      "id": "26",
+      "ad": "Emma Shapplin",
+      "tarix": "11 Aprel 2024",
+      "saat": "23:00",
+      "yer": "Heydər Əliyev Sarayı",
+      "qiymet": {
+        "min": 50,
+        "max": 370
+      },
+      "mekanyeri": "Heydər Əliyev Sarayı",
+      "mekanadress": "Bülbül prospekti 35, Bakı, Azərbaycan",
+      "sekil": "/shaplinyan.jpg",
+      "arxafon": "-",
+      "boyuksekil": "/shaplinboyuk.jpg",
+      "kiciksekil": "/kicik sekil.png",
+      "yansekil": "/shaplinyan.jpg",
+      "haqqinda": "Müddət: 2 saat 30 dəqiqə, fasilə ilə. Rejissor: Ekaterina Pikova. Lion İzmailov və Aleksey Tsapikin pyesi əsasında. Təsviri: 'Ranevskaya: gülüş və göz yaşları ilə' tamaşası - əfsanəvi aktrisa Faina Ranevskayanın dünyasına qərq olmaq üçün unikal bir fürsətdir. Hadisələr onun son günlərini keçirdiyi mənzilində baş verir. Ancaq, həyatın təvazökarlığına baxmayaraq, taleyi xanım Ranevskayanı sınaqdan keçirmək qərarına gəlir və onun yanına qərib Annuşkanı göndərir. Bu gözlənilməz ziyarət artistin dünyasını alt-üst edir və ona keçmişi xatırlamağa və yeni duyğu və hissiyatlar keçirməyə məcbur edir. Tamaşanın süjet xətti Faina Ranevskayanın geridə qoyduğu müdriklik və dərin düşüncələrlə doludur. Aktyorlar tamaşaçılara bütün duyğuları - gülüşdən tutmuş göz yaşlarına qədər çatdıracaqlar. Bu, nə vaxtsa istedadlı aktrisanı sevən və qiymətləndirən hər kəsi laqeyd qoymayacaq bir tamaşadır. 'Bu, tamaşanın əfsanəvi qəhrəmanının gözəl ədəbi materialı, aktyor sənətkarlığı və xarizması ilə üst-üstə düşən xoşbəxt bir hadisə idi.' Asya Davidson, 'Cümə'qəzeti Aleksey Vasilyev- aktyor deyir: 'Tamaşaçı niyə teatra gedir? Gülmək, ağlamaq üçün. Elə bir tamaşa var ki, o, sırf komediyadır - gəlirsən, gülürsən və axşamı yaxşı keçirirsən. Dramatik, faciəli tamaşalar da var. Oraya xüsusi tamaşaçılar gedir. Bizim tamaşamızda mənə elə gəlir ki, bunların hamısı çox ahəngdar şəkildə birləşdirilib"
+    }
+  ],
+  "heftesonlari": [
+    {
+      "id": "27",
+      "ad": "Elçin Abbasovun İnteraktiv Elm Muzeyi",
+      "tarix": "17 Fevral 2024",
+      "saat": "18:00",
+      "yer": "Hədəf Liseyi",
+      "qiymet": {
+        "min": 10,
+        "max": 20
+      },
+      "mekanyeri": "Hədəf Liseyi",
+      "mekanadress": "Hədəf Liseyi",
+      "sekil": "/elmesas.png",
+      "arxafon": "/elmfon.jpg",
+      "boyuksekil": "/elmboyuk.jpg",
+      "kiciksekil": "/elmkicik.png",
+      "yansekil": "/elmyan.jpg",
+      "haqqinda": "İnteraktiv Elm Muzeyində 150-dən çox eksponat var. Burada siz elmin ancaq testlərdən ibarət olmadığını və həyatın suallarına cavab olduğunu görəcəksiniz. Siz muzeyimizdə sənaye inqlabının təməlini qoyan buxar mühərrikindən tutmuş, ən müasir ion mühərrikini işlək vəziyyətdə görə biləcəksiniz. Elektromaqnetizmi, sərbəstdəyişməni, Arximed qanununu, Tesla babinini, vakumun təsirini, işığın və səsin xüsusiyyətlərini və bir çox fiziki anlamları eksperimentlərdə görə biləcəksiniz."
+    },
+    {
+      "id": "28",
+      "ad": "Sənsiz ",
+      "tarix": "11 Fevral 2024",
+      "saat": "20:30",
+      "yer": "Heydər Əliyev Sarayı",
+      "qiymet": {
+        "min": 40,
+        "max": 150
+      },
+      "mekanyeri": "Akademik Milli Dram Teatrı",
+      "mekanadress": "Füzuli Küçəsi 1, Bakı, Azərbaycan",
+      "sekil": "/sensizesas.png",
+      "arxafon": "/sensizfon.jpg",
+      "boyuksekil": "/sensizboyukk.jpg",
+      "kiciksekil": "/sensizkicik.png",
+      "yansekil": "/sensizyan.jpg",
+      "haqqinda": "SƏNSİZ dramı Şıxəli Qurbanov yaradıcılığında zamanında ən cəsarətli dram əsəri kimi qəbul edilirdi. Sosialist sistemi içində QULAQ sistemi və bu sistemin fəsadlarını tam dəhşəti ilə göstərən yeganə əsər idi. Şıxəli Qurbanovun “Sənsiz” dramı 1937-ci illərin məşum repressiyaya məruz qalaraq, həyatdan və ailəsindən qoparılmış insanlardan – Tərlan və Sevincdən bəhs edir. 18 illik məşəqqətli sürgün həyatı yaşayan tək Tərlan deyil. Onun yolunu 18 il gözləyən Sevinc də bu zülmü onu gözləyə gözləyə yaşayır. Hətta 18 il sonra Tərlanın günahsız olduğuna görə verilən bəraət xəbərini alandan sonra, həbs edilərək gedər-gəlməzə göndərilən ərinin ya özünü, ya qəbrini tapmaq üçün yola çıxmağa qərar verir. Bu onun Tərlandan başqa həyat, başqa səadət, başqa ailə istəmədiyini sübut edir. Toy gecəsi ayrıldığı Sevincini 18 ildən sonra yenidən uzaqdan olsa da görməyə gələn Tərlan onu Fərhadla yaxın münasibətdə olduğunu güman edərək, onun səadətinə müdaxilə etmədən səssizcə, özünü tanıtmadan getməyə qərar verir. Getmədən öncə 18 il özü ilə daşıdığı “Kiçiktəpə” geoloji araşdırmasının sonucunu Fərhada verərək getməyə qədar verir. Bu kəşf Fərhada respublika miqyasında şöhrət gətirsə də, o bu yükü daşıya bilmir. Heç bir zaman Fərhadın sevgisinə qarşılıq verməyən Sevincin Tərlan adına yola çıxması onun bütün ümidlərini yox etsə də, Fərhad Tərlanla görüşündə onun kimliyini müəyyən etdiyini etiraf edir. Özü də Tərlanı saxlamaq üçün vağzala gedir. Fərhadla Maralın birgə səyi ilə Sevinc Tərlana, Tərlan Sevincə qovuşur. Bütün yanlışlıqlar, səhvlər, ittihamlar bu görüşlə heç olur. Nəhayət ki, ədalət qalib gəlir. Xoşbəxlik bir həqiqət kimi batmır, itmir, yenidən bərqərar olur."
+    },
+    {
+      "id": "29",
+      "ad": "Mark Eliyahu ",
+      "tarix": "11 Aprel 2024",
+      "saat": "21:30",
+      "yer": "Heydər Əliyev Sarayı",
+      "qiymet": {
+        "min": 40,
+        "max": 220
+      },
+      "mekanyeri": "Heydər Əliyev Sarayı",
+      "mekanadress": "Bülbül prospekti 35, Bakı, Azərbaycan",
+      "sekil": "/markesas.png",
+      "arxafon": "/markfon.jpg",
+      "boyuksekil": "/markboyuk.jpg",
+      "kiciksekil": "/markkicik.png",
+      "yansekil": "/markyan.jpg",
+      "haqqinda": "Dağıstan əsilli kamança və bağlama ustası, dərin melodiyaların adamı Mark Eliyahu 11 Fevral 2024-cü il tarixində Bakıda olacaq. Şərqlə Qərbi sintez edən melodiyaları ilə ruhunuzu müxtəlif diyarlara, səsli səyahətə aparan musiqiçi və bəstəkar Mark Eliyahu Heydər Əliyev Sarayında kamança və tar kimi köhnə alətləri müasir və tarla birləşdirərək xüsusi performans göstərəcək. Mark Eliyahu 1982-ci ildə Dağıstanda dünya şöhrətli tar ustası, bəstəkar, aranjimançı və musiqişünas Piris Eliyahunun oğlu olaraq anadan olub. O, doğulduğu gündən bütün həyatını musiqi ilə iç-içə keçirib. Skripka və fortepiano ilə alətlərlə möhkəm bağlar qurmağa başlayan Eliyahu 12-13 yaşlarında bağlamanı kəşf edib, 16 yaşında isə bağlama təhsili üçün Yunanıstana gedib və Ross Dalydən dərs alıb. O, müəllimindən türk musiqisini öyrənərkən bir səhər diskdə çalınan kamançanın səsini eşitdi və bu səsdən çox təsirləndi. 17 yaşında kamança öyrənmək üçün Azərbaycana gedib və ustadı Ədalət Vəzirovdan fars-azəri musiqisini öyrənib. Kamança və tar kimi qədim alətlərin müasir və futuristik elektronika ilə birləşdirilməsi; Şərq və Qərbi birləşdirən Mark Eliyahu musiqisini bir addım irəli aparır və onu dərin səs səyahətinə çıxarır."
+    },
+    {
+      "id": "30",
+      "ad": "Pizza Hut'dan uşaqlar üçün master-klas",
+      "tarix": "10 Fevral 2024",
+      "saat": "21:30",
+      "yer": "Pizza Hut",
+      "qiymet": {
+        "min": 40,
+        "max": 150
+      },
+      "mekanyeri": "Pizza Hut",
+      "mekanadress": "28 may filialı - D.Əliyeva küç, Dəmir Yolu Vağzalı, 2-ci mərtəbə",
+      "sekil": "/pizaaesas.png",
+      "arxafon": "/84fon.jpg",
+      "boyuksekil": "/pizzaboyuk.jpg",
+      "kiciksekil": "/pizzakicik.jpeg",
+      "yansekil": "/pizzayan.jpg",
+      "haqqinda": "Uşaqlarınız 'Pizza Hut' şəbəkəsinin dünya standartları ilə maraqlı və əyləncəli pizza bişirmə prosesində iştirak edəcəklər. Peşakar pizzamaker onlara mükəmməl pizzanın sirlərini açacaq! Uşaq master-klasslarımız hətta ən balaca qonaqlarımızı heyran edəcək!"
+    },
+    {
+      "id": "31",
+      "ad": "ÇELİK ",
+      "tarix": "05 May 2024",
+      "saat": "21:30",
+      "yer": "Heydər Əliyev Sarayı",
+      "qiymet": {
+        "min": 20,
+        "max": 140
+      },
+      "mekanyeri": "Heydər Əliyev Sarayı",
+      "mekanadress": "Şəmsi Bədəlbəyli 98, Bakı, Azərbaycan",
+      "sekil": "/celikesas.png",
+      "arxafon": "/celikfon.jpg",
+      "boyuksekil": "/celikboyuk.jpg",
+      "kiciksekil": "/celikkicik.png",
+      "yansekil": "/celikyan.jpg",
+      "haqqinda": "İyirmidən çox albom müəllifi olan sevilən sənətçi ÇELİK 5 may tarixində Heydər Əliyev Sarayında möhtəşəm konsert proqramı ilə sevənlərinin qarşısında olacaq."
+    }
+  ],
+  "qarisiq": [
+    {
+      "id": "32",
+      "ad": "ÇELİK ",
+      "tarix": "05 May 2024",
+      "saat": "21:30",
+      "yer": "Heydər Əliyev Sarayı",
+      "qiymet": {
+        "min": 20,
+        "max": 140
+      },
+      "mekanyeri": "Heydər Əliyev Sarayı",
+      "mekanadress": "Şəmsi Bədəlbəyli 98, Bakı, Azərbaycan",
+      "sekil": "/celikesas.png",
+      "arxafon": "/celikfon.jpg",
+      "boyuksekil": "/celikboyuk.jpg",
+      "kiciksekil": "/celikkicik.png",
+      "yansekil": "/celikyan.jpg",
+      "haqqinda": "İyirmidən çox albom müəllifi olan sevilən sənətçi ÇELİK 5 may tarixində Heydər Əliyev Sarayında möhtəşəm konsert proqramı ilə sevənlərinin qarşısında olacaq."
+    },
+    {
+      "id": "33",
+      "ad": "Mert Demir",
+      "tarix": "17 Yanvar 2024",
+      "saat": "21:30",
+      "yer": "Heyder Əliyev adına saray",
+      "qiymet": {
+        "min": 15,
+        "max": 150
+      },
+      "sekil": "/mertesas.png",
+      "arxafon": "/mertarxafon.jpg",
+      "boyuksekil": "/mertcardicinde/jpg",
+      "kiciksekil": "/mertyansekil.jpg",
+      "yansekil": "/mertyansekil.jpg",
+      "haqqinda": "Azərbaycanda ilk dəfə!“Ateşe düştüm” mahnısı ilə gündəmi zəbt edən Mert Demir, uşaqlıqdan musiqi ilə məşğul olub. Beyoğlu İstanbulda doğulub böyüyən sənətçi, orta məktəbi bitirdikdən sonra xaricə köçür. Daha sonra, 2014 cü ildə məşhur musiqi yarışması olan O Ses Türkiye-yə qatılır və finala qədər yüksəlir. Yarışmadan sonra müxtəlif yerlərdə səhnə alır. Nəhayət, 2017 ci ildə FadeOut music ilə razılaşaraq, profesional səhnə almağa başlayır. Həmin ilin son aylarında isə, söz və musiqisi özünə aid olan “Uyan” adlı ilk sinqılını yayınlayır. Mert Demir eyni zamanda söz yazarı, prodüser və rejissordur. Müğənni, səhnə performansı, pop, bedroom pop, R&B və arabesk kimi müxtəlif tərz musiqi seçimləri ilə zamanın nəbzini tutmağı bacarır. 2021 ci ildə Melike Şahin ilə birlikdə yayınladığı “Pusulam Rüzgar” adlı mahnı, böyük bəyəni toplayır. Noyabr 2022 tarixində isə Mabel Matiz ilə birlikdə yayınladığı “Antidepresan” adlı mahnı dönəmin ən çox dinlənən parçalarından oldu. Qeyd edək ki, bir çox mükafat alan bu mahnının musiqi yazarlığı və produserliyi Mert Demire, sözləri isə Mert Demir və Mabel Matizə aiddir. Mert Demirin “İkimize birden” ilə başlayan EP seriyası, ”Ateşe düştüm” və “Dön desem” ilə davam edir. EP-nin çıxış mahnısı olan və qısa zamanda dillər əzbəri olan “Ateşe düştüm” ün söz və musiqisi də həmçinin Mert Demir və Mela Bedelə aiddir. Gənc müğənninin istedadları bununla da bitmir, o gitara, elektron gitara, pianino kimi musiqi alətlərində ifa etməyi bacarır. Hazırda kariyerasının yüksəliş illərini yaşayan Mert Demir, bəzi canlı konsert və studio performanslarını dijital platformalarda yayınlayır."
+    },
+    {
+      "id": "34",
+      "ad": "Şəkixanovlar Evi",
+      "tarix": "23 Fevral 2024",
+      "saat": "18:00",
+      "yer": "Şəkixanovlar Evi",
+      "qiymet": {
+        "min": 1,
+        "max": 10
+      },
+      "mekanyeri": "Şəkixanovlar Evi",
+      "mekanadress": "Şəki şəhəri, Hikmət Ələkbərzadə küçəsi, 21",
+      "sekil": "/xanovesas.png",
+      "arxafon": "/xanovarxafon.jpg",
+      "boyuksekil": "/xanovboyuk.jpg",
+      "kiciksekil": "/xanovkicik.jpeg",
+      "yansekil": "/xanovyan.jpg",
+      "haqqinda": "Şəkixanovların evi - dekorativ elementlərlə zəngin, saray tipli yaşayış evidir. Qaladan bir qədər uzaqda, Şəki Xan sarayından qərbdə, \"Otaq eşiyi\" məhəlləsində şəbəkə üsulu ilə tikilib. Tikilinin interyerindəki divar naxışları Xan sarayının divarına naxışların vurulmağa başlandığı dövrə, XVIII əsrin ikinci yarısına aiddir. Şəkixanovların evində Şəki xanlarının qohumları yaşayıb.\nİrəli uzanmış, düzbucaqlı formada olan ikimərtəbəli bina çiy kərpicdən tikilib. Evin hər bir mərtəbəsi üç otaqdan və iki böyük olmayan dəhlizdən ibarət olub, birinci mərtəbədən ikinci mərtəbəyə qalxan pillələr yerləşən otaqlarla birləşir. Birinci mərtəbədəki otaqlar qış yaşayış otaqları olduğu üçün burada \"buxarılar\" yerləşdirilib.\nDaxili dekorativ elementlərinin zənginliyi ilə Şəkixanovların evi saray tipli evləri xatırladır. Belə ki, Şəkixanovların evi ilə ondan çox da uzaqda yerləşməyən Şəki Xan sarayı arasında uyğunluqlar kifayət qədərdir.\nBinanın tikintisində gildən istifadə olunub ki, bu da otaqları yayda sərin, qışda isə isti saxlayıb. Otaqlar öz mürəkkəb və rəngarəng tərtibatı ilə fərqlənir. Burada şəbəkə formalı pəncərələrdən süzülən günəş şüaları, rəngarəng rəsmlər, müxtəlif qızıl suyu ilə çəkilmiş naxışlar, fərqli fiqurlarla yığılmış güzgülər və digər bəzək əşyaları qoyulub."
+    },
+    {
+      "id": "35",
+      "ad": "Şəkixanovlar Evi",
+      "tarix": "23 Fevral 2024",
+      "saat": "18:00",
+      "yer": "Şəkixanovlar Evi",
+      "qiymet": {
+        "min": 1,
+        "max": 10
+      },
+      "mekanyeri": "Şəkixanovlar Evi",
+      "mekanadress": "Şəki şəhəri, Hikmət Ələkbərzadə küçəsi, 21",
+      "sekil": "/xanovesas.png",
+      "arxafon": "/xanovarxafon.jpg",
+      "boyuksekil": "/xanovboyuk.jpg",
+      "kiciksekil": "/xanovkicik.jpeg",
+      "yansekil": "/xanovyan.jpg",
+      "haqqinda": "Şəkixanovların evi - dekorativ elementlərlə zəngin, saray tipli yaşayış evidir. Qaladan bir qədər uzaqda, Şəki Xan sarayından qərbdə, \"Otaq eşiyi\" məhəlləsində şəbəkə üsulu ilə tikilib. Tikilinin interyerindəki divar naxışları Xan sarayının divarına naxışların vurulmağa başlandığı dövrə, XVIII əsrin ikinci yarısına aiddir. Şəkixanovların evində Şəki xanlarının qohumları yaşayıb.\nİrəli uzanmış, düzbucaqlı formada olan ikimərtəbəli bina çiy kərpicdən tikilib. Evin hər bir mərtəbəsi üç otaqdan və iki böyük olmayan dəhlizdən ibarət olub, birinci mərtəbədən ikinci mərtəbəyə qalxan pillələr yerləşən otaqlarla birləşir. Birinci mərtəbədəki otaqlar qış yaşayış otaqları olduğu üçün burada \"buxarılar\" yerləşdirilib.\nDaxili dekorativ elementlərinin zənginliyi ilə Şəkixanovların evi saray tipli evləri xatırladır. Belə ki, Şəkixanovların evi ilə ondan çox da uzaqda yerləşməyən Şəki Xan sarayı arasında uyğunluqlar kifayət qədərdir.\nBinanın tikintisində gildən istifadə olunub ki, bu da otaqları yayda sərin, qışda isə isti saxlayıb. Otaqlar öz mürəkkəb və rəngarəng tərtibatı ilə fərqlənir. Burada şəbəkə formalı pəncərələrdən süzülən günəş şüaları, rəngarəng rəsmlər, müxtəlif qızıl suyu ilə çəkilmiş naxışlar, fərqli fiqurlarla yığılmış güzgülər və digər bəzək əşyaları qoyulub."
+    },
+    {
+      "id": "36",
+      "ad": "Şəki Xan Sarayı",
+      "tarix": "24 Fevral 2024",
+      "saat": "18:00",
+      "yer": "Şəki Xan Sarayı",
+      "qiymet": {
+        "min": 1,
+        "max": 10
+      },
+      "mekanyeri": "Şəki Xan Sarayı",
+      "mekanadress": "Mirzə Fətəli Axundov, Şəki, AZ5503",
+      "sekil": "/sekiesas.jpg",
+      "arxafon": "-",
+      "boyuksekil": "/sekiboyuk.jpg",
+      "kiciksekil": "/sekikicik.jpeg",
+      "yansekil": "/sekiyan.jpg",
+      "haqqinda": "Şəki Xan Sarayı – “Yuxarı Baş” Milli Tarix-Memarlıq Qoruğunun ərazisində yerləşən dünya əhəmiyyətli tarix və memarlıq abidəsidir.\nÜmumdünya İrs Komitəsinin 43-cü Sessiyasında Şəki şəhərinin tarixi hissəsi ilə birgə “Xan Sarayı” adı ilə UNESCO Tərəfdən Əhəmiyyətli İrs Siyahısına daxil edilmişdir. Saray UNESCO tərəfindən beynəlxalq səviyyəli memarlıq xüsusiyyətləri ilə diqqət çəkir. \nQuba şəhərindən sonra ikinci əsas turizm mənbəyi olan Şəki, öz əhəmiyyətini gələcəkdə də qorumağa davam edir.\nTürk və İslam mədəniyyətinin memarlıq incilərindən olan Şəki Xan Sarayı, 18-ci əsrin əvvəlində inşa edilib. Şəki xanları vaxtilə xan qalası olaraq istifadə olunan sarayda danışıqların və qonağın qarşılanması üçün xüsusi otaqlar fəaliyyət göstərir.\nİcra olunan restavratsiya işləri nəticəsində Şəki Xan Sarayı bütün səmaları ilə bərpa edilib və ziyarətçilərə təqdim edilir."
+    },
+    {
+      "id": "37",
+      "ad": "Lahıc Tarix-Diyarşünaslıq Muzeyi",
+      "tarix": "24 Fevral 2024",
+      "saat": "18:00",
+      "yer": "Lahıc Tarix-Diyarşünaslıq Muzeyi",
+      "qiymet": {
+        "min": 2,
+        "max": 3
+      },
+      "mekanyeri": "Lahıc Tarix-Diyarşünaslıq Muzeyi",
+      "mekanadress": "",
+      "sekil": "/lahicesas.jpg",
+      "arxafon": "-",
+      "boyuksekil": "/lahicboyuk.jpg",
+      "kiciksekil": "/lahickicik.png",
+      "yansekil": "/lahicyan.jpg",
+      "haqqinda": "1985-ci ildə yaradılmış Lahıc Tarix-Diyarşünaslıq Muzeyinin fondunda 700-dən çox maddi-mədəniyyət nümunəsi mühafizə olunur. 5 zaldan ibarət ekspozisiyada Lahıcın orta əsrlər dövrünü xarakterizə edən maddi-mədəniyyət nümunələri nümayiş olunur. Məzmun və forma zənginliyinə görə seçilən bu eksponatlar arxeoloji, etnoqrafik, numizimatik, dekorativ-tətbiqi sənəti nümunələrindən ibarətdir. Muzeydə xüsusilə Lahıc ustalarının mürəkkəb və incə naxışlarla bəzədikləri misgərlik sənəti nümunələri, dəmirçilik sənətinə aid əmək alətləri və s. sərgilənir."
+    },
+    {
+      "id": "38",
+      "ad": "Atəşgah məbədi",
+      "tarix": "24 Fevral 2024",
+      "saat": "18:00",
+      "yer": "Atəşgah məbədi",
+      "qiymet": {
+        "min": 1,
+        "max": 10
+      },
+      "mekanyeri": "Atəşgah məbədi",
+      "mekanadress": "Atamoğlan Rzayev, Bakı, Suraxanı, AZ1049",
+      "sekil": "/atesesas.jpg",
+      "arxafon": "-",
+      "boyuksekil": "/atesboyuk.jpg",
+      "kiciksekil": "/ateskicik.jpeg",
+      "yansekil": "/atesyan.jpg",
+      "haqqinda": "“Atəşgah məbədi” – Azərbaycan ərazisindəki Abşeron yarımadasında, Bakı şəhərindən 30 km aralıda, Suraxanı rayonundakı Suraxanı kəndi yaxınlığında yerləşən, müxtəlif dövrlərdə zərdüştilər, hinduistlər və siqhlər tərəfindən ibadətgah kimi istifadə edilmiş alov məbədidir. XVII-XVIII əsrlərdə təbii qaz çıxışı olan sönməz alovların yerində inşa edilmiş məbədin adı “Alov evi” və ya “Alov yeri” anlamı verir.\n\nTarixi mənbələrdə yazıldığına görə, qədim atəşpərəstlər məbədinin qalıqları üzərində, təbii qazın çıxdığı əbədi məşəlin yerində XVII-XVIII əsrlərdə inşa edilmiş bu məbəd 24 hücrədən və mərkəzi səcdəgahdan ibarətdir. Tarixçilərin yazdığına görə, müxtəlif vaxtlarda tikilmiş hücrələr və ibadətgah XVII əsrin sonlarında ümumi hasara alınmışlar. Məbədin ən erkən tikilişi təqribən eramızın 1713-cü ilinə aid edilir. Mərkəzi məbəd-səcdəgah isə 1810-cu ildə tikilmişdir. XIX əsrin əvvəllərində məbəd artıq hazırkı görünüşünü almış və dəyişdirilmədən dövrümüzədək qalmışdır.\n\nYerli memarlıq ənənələri üslubunda tikilmiş “Atəşgah” özündə qədim od səcdəgahlarının cizgilərini birləşdirir. Hazırda dünyada yalnız iki yerdə — Şimali Hindistanda və Azərbaycanda belə bir atəşgah mövcuddur. Atəşpərəstlərin ən ali sitayiş və ibadət məbədi — ziyarətgahı isə məhz Azərbaycandakı Suraxanı Atəşgahıdır.\n\nAzərbaycan Prezidentinin sərəncamına əsasən kompleks ətrafında açıq səma altında muzey yaradılıb, kompleks Dövlət Tarix-Memarlıq Qoruğu elan edilib.\n\nSərbəst (Ödənişsiz) giriş\nAzərbaycan Respublikasında yaşayan aztəminatlı ailələrin üzvləri;\n- əlillər;\n- sağlamlıq imkanları məhdud şəxslər;\n- 18 yaşınadək uşaqlar;\n- müharibə veteranları"
+    },
+    {
+      "id": "39",
+      "ad": "“Yanar dağ” Dövlət Tarix-Mədəniyyət və Təbiət Qoruğu ",
+      "tarix": "2 Fevral 2024",
+      "saat": "17:00",
+      "yer": "“Yanar dağ” Dövlət Tarix-Mədəniyyət və Təbiət Qoruğu",
+      "qiymet": {
+        "min": 1,
+        "max": 910
+      },
+      "mekanyeri": "Yanar dağ” Dövlət Tarix-Mədəniyyət və Təbiət Qoruğu",
+      "mekanadress": "Məmmədli-Digah şossesi",
+      "sekil": "/tebietesas.jpg",
+      "arxafon": "-",
+      "boyuksekil": "/tebietboyuk.jpg",
+      "kiciksekil": "/tebietkicik.jpeg",
+      "yansekil": "/tebietyan.jpg",
+
+      "haqqinda": "“Atəşgah məbədi” – Azərbaycan ərazisindəki Abşeron yarımadasında, Bakı şəhərindən 30 km aralıda, Suraxanı rayonundakı Suraxanı kəndi yaxınlığında yerləşən, müxtəlif dövrlərdə zərdüştilər, hinduistlər və siqhlər tərəfindən ibadətgah kimi istifadə edilmiş alov məbədidir. XVII-XVIII əsrlərdə təbii qaz çıxışı olan sönməz alovların yerində inşa edilmiş məbədin adı “Alov evi” və ya “Alov yeri” anlamı verir.\n\nTarixi mənbələrdə yazıldığına görə, qədim atəşpərəstlər məbədinin qalıqları üzərində, təbii qazın çıxdığı əbədi məşəlin yerində XVII-XVIII əsrlərdə inşa edilmiş bu məbəd 24 hücrədən və mərkəzi səcdəgahdan ibarətdir. Tarixçilərin yazdığına görə, müxtəlif vaxtlarda tikilmiş hücrələr və ibadətgah XVII əsrin sonlarında ümumi hasara alınmışlar. Məbədin ən erkən tikilişi təqribən eramızın 1713-cü ilinə aid edilir. Mərkəzi məbəd-səcdəgah isə 1810-cu ildə tikilmişdir. XIX əsrin əvvəllərində məbəd artıq hazırkı görünüşünü almış və dəyişdirilmədən dövrümüzədək qalmışdır.\n\nYerli memarlıq ənənələri üslubunda tikilmiş “Atəşgah” özündə qədim od səcdəgahlarının cizgilərini birləşdirir. Hazırda dünyada yalnız iki yerdə — Şimali Hindistanda və Azərbaycanda belə bir atəşgah mövcuddur. Atəşpərəstlərin ən ali sitayiş və ibadət məbədi — ziyarətgahı isə məhz Azərbaycandakı Suraxanı Atəşgahıdır.\n\nAzərbaycan Prezidentinin sərəncamına əsasən kompleks ətrafında açıq səma altında muzey yaradılıb, kompleks Dövlət Tarix-Memarlıq Qoruğu elan edilib.\n\nSərbəst (Ödənişsiz) giriş\nAzərbaycan Respublikasında yaşayan aztəminatlı ailələrin üzvləri;\n- əlillər;\n- sağlamlıq imkanları məhdud şəxslər;\n- 18 yaşınadək uşaqlar;\n- müharibə veteranları"
+    },
+    {
+      "id": "40",
+      "ad": "Elçin Abbasovun İnteraktiv Elm Muzeyi",
+      "tarix": "17 Fevral 2024",
+      "saat": "18:00",
+      "yer": "Hədəf Liseyi",
+      "qiymet": {
+        "min": 10,
+        "max": 20
+      },
+      "mekanyeri": "Hədəf Liseyi",
+      "mekanadress": "Hədəf Liseyi",
+      "sekil": "/elmesas.png",
+      "arxafon": "/elmfon.jpg",
+      "boyuksekil": "/elmboyuk.jpg",
+      "kiciksekil": "/elmkicik.png",
+      "yansekil": "/elmyan.jpg",
+      "haqqinda": "İnteraktiv Elm Muzeyində 150-dən çox eksponat var. Burada siz elmin ancaq testlərdən ibarət olmadığını və həyatın suallarına cavab olduğunu görəcəksiniz. Siz muzeyimizdə sənaye inqlabının təməlini qoyan buxar mühərrikindən tutmuş, ən müasir ion mühərrikini işlək vəziyyətdə görə biləcəksiniz. Elektromaqnetizmi, sərbəstdəyişməni, Arximed qanununu, Tesla babinini, vakumun təsirini, işığın və səsin xüsusiyyətlərini və bir çox fiziki anlamları eksperimentlərdə görə biləcəksiniz."
+    },
+    {
+      "id": "41",
+      "ad": "Lazer ishiq shousu",
+      "tarix": "18 Fevral 2024",
+      "saat": "18:25",
+      "yer": "Hədəf Liseyi",
+      "qiymet": {
+        "min": 8,
+        "max": 35
+      },
+      "mekanyeri": "Bakı Musiqi Akademiyası nəzdində Opera Studiyasının Konsert salonu",
+      "mekanadress": "Şəmsi Bədəlbəyli 98, Bakı, Azərbaycan",
+      "sekil": "/lazeresas.png",
+      "arxafon": "/lazerfon.jpg",
+      "boyuksekil": "/lazerboyuk.jpg",
+      "kiciksekil": "/lazerkicik.png",
+      "yansekil": "/lazeryan.jpg",
+      "haqqinda": "18 fevral saat 11.00-da uşaqları götürün və Opera Studiyasında bütün ailə üçün 'Dünya ətrafında' adlı yeni lazer işıq şousuna gəlin. 'Show1Baku' rəqqaslarının xoreoqrafiyası ilə birgə parlaq işıqlandırma Türkiyə, Çin, Qədim Roma mədəniyyətinə yeni baxış bəxş edəcək, hətta sizi kosmosa aparacaq!\nPULSUZ GİRİŞ: 5 yaşa qədər uşaqlar üçün (valideyn üçün bilet zəruridir)"
+    },
+    {
+      "id": "42",
+      "ad": "Cırtdan Şou - Novruz Macərası",
+      "tarix": "23 Mart 2024",
+      "saat": "13:25",
+      "yer": "Bakı Konqres Mərkəzi",
+      "qiymet": {
+        "min": 8,
+        "max": 40
+      },
+      "mekanyeri": "Bakı Konqres Mərkəzi",
+      "mekanadress": "Təbriz Küçəsi, Bakı, Azərbaycan",
+      "sekil": "/cirtdanesas.png",
+      "arxafon": "/cirtdanfon.jpg",
+      "boyuksekil": "/cirtdanboyuk.jpg",
+      "kiciksekil": "/cirtdankicik.png",
+      "yansekil": "/cirtdanyan.png",
+      "haqqinda": "18 fevral saat 11.00-da uşaqları götürün və Opera Studiyasında bütün ailə üçün 'Dünya ətrafında' adlı yeni lazer işıq şousuna gəlin. 'Show1Baku' rəqqaslarının xoreoqrafiyası ilə birgə parlaq işıqlandırma Türkiyə, Çin, Qədim Roma mədəniyyətinə yeni baxış bəxş edəcək, hətta sizi kosmosa aparacaq!\nPULSUZ GİRİŞ: 5 yaşa qədər uşaqlar üçün (valideyn üçün bilet zəruridir)"
+    },
+    {
+      "id": "43",
+      "ad": "Cırtdan Şou - Novruz Macərası",
+      "tarix": "24 Mart 2024",
+      "saat": "16:30",
+      "yer": "Bakı İdman Sarayı",
+      "qiymet": {
+        "min": 12,
+        "max": 12
+      },
+      "mekanyeri": "Bakı İdman Sarayı",
+      "mekanadress": "26a Neftçilər pr, Bakı",
+      "sekil": "/cirtdanesas.png",
+      "arxafon": "/cirtdanfon.jpg",
+      "boyuksekil": "/cirtdanboyuk.jpg",
+      "kiciksekil": "/cirtdankicik.png",
+      "yansekil": "/cirtdanyan.png",
+      "haqqinda": "Nağıl qəhrəmanları 'Kosanın sərgüzəştləri' adlı özəl proqramla 'Novruz' şənliklərində uşaqların görüşünə gələcək. Müasir rəqslər və oyunlarımız, milli şou-interpretasiyasında böyüklərin də iştirak etmələri şərti ilə tamaşaçıların diqqətinə çatdırılacaq. Bu bayram şənliklərinin sonunda hər bir iştirakçıya yüksək keyfiyyətli şirniyyat dəsti təqdim olunacaq. Bir bilet - bir valideyn və bir uşaq üçün keçərlidir. Tədbir 3-14 yaşlı uşaqlar üçün nəzərdə tutulub."
+    },
+    {
+      "id": "43",
+      "ad": "Mavi traktor",
+      "tarix": "24 Mart 2024",
+      "saat": "16:30",
+      "yer": "Bakı İdman Sarayı",
+      "qiymet": {
+        "min": 11,
+        "max": 55
+      },
+      "mekanyeri": "Bakı Musiqi Akademiyası nəzdində Opera Studiyasının Konsert salonu",
+      "mekanadress": "Şəmsi Bədəlbəyli 98, Bakı, Azərbaycan",
+      "sekil": "/siniesas.png",
+      "arxafon": "/sinifon.jpg",
+      "boyuksekil": "/siniboyuk.jpg",
+      "kiciksekil": "/sinikicik.png",
+      "yansekil": "/siniyan.png",
+      "haqqinda": "Aprelin 21-də Opera Studiyasının səhnəsində bütün ailə üçün interaktiv musiqili “Mavi traktor” tamaşası baş tutacaq. Uşaqlarınızı sevimli personajlarının yeni sərgüzəştləri ilə tanış edin!"
+    },
+    {
+      "id": "44",
+      "ad": "Elçin Abbasovun İnteraktiv Elm Muzeyi",
+      "tarix": "17 Fevral 2024",
+      "saat": "18:00",
+      "yer": "Hədəf Liseyi",
+      "qiymet": {
+        "min": 10,
+        "max": 20
+      },
+      "mekanyeri": "Hədəf Liseyi",
+      "mekanadress": "Hədəf Liseyi",
+      "sekil": "/elmesas.png",
+      "arxafon": "/elmfon.jpg",
+      "boyuksekil": "/elmboyuk.jpg",
+      "kiciksekil": "/elmkicik.png",
+      "yansekil": "/elmyan.jpg",
+      "haqqinda": "İnteraktiv Elm Muzeyində 150-dən çox eksponat var. Burada siz elmin ancaq testlərdən ibarət olmadığını və həyatın suallarına cavab olduğunu görəcəksiniz. Siz muzeyimizdə sənaye inqlabının təməlini qoyan buxar mühərrikindən tutmuş, ən müasir ion mühərrikini işlək vəziyyətdə görə biləcəksiniz. Elektromaqnetizmi, sərbəstdəyişməni, Arximed qanununu, Tesla babinini, vakumun təsirini, işığın və səsin xüsusiyyətlərini və bir çox fiziki anlamları eksperimentlərdə görə biləcəksiniz."
+    },
+    {
+      "id": "45",
+      "ad": "Sənsiz ",
+      "tarix": "11 Fevral 2024",
+      "saat": "20:30",
+      "yer": "Heydər Əliyev Sarayı",
+      "qiymet": {
+        "min": 40,
+        "max": 150
+      },
+      "mekanyeri": "Akademik Milli Dram Teatrı",
+      "mekanadress": "Füzuli Küçəsi 1, Bakı, Azərbaycan",
+      "sekil": "/sensizesas.png",
+      "arxafon": "/sensizfon.jpg",
+      "boyuksekil": "/sensizboyukk.jpg",
+      "kiciksekil": "/sensizkicik.png",
+      "yansekil": "/sensizyan.jpg",
+      "haqqinda": "SƏNSİZ dramı Şıxəli Qurbanov yaradıcılığında zamanında ən cəsarətli dram əsəri kimi qəbul edilirdi. Sosialist sistemi içində QULAQ sistemi və bu sistemin fəsadlarını tam dəhşəti ilə göstərən yeganə əsər idi. Şıxəli Qurbanovun “Sənsiz” dramı 1937-ci illərin məşum repressiyaya məruz qalaraq, həyatdan və ailəsindən qoparılmış insanlardan – Tərlan və Sevincdən bəhs edir. 18 illik məşəqqətli sürgün həyatı yaşayan tək Tərlan deyil. Onun yolunu 18 il gözləyən Sevinc də bu zülmü onu gözləyə gözləyə yaşayır. Hətta 18 il sonra Tərlanın günahsız olduğuna görə verilən bəraət xəbərini alandan sonra, həbs edilərək gedər-gəlməzə göndərilən ərinin ya özünü, ya qəbrini tapmaq üçün yola çıxmağa qərar verir. Bu onun Tərlandan başqa həyat, başqa səadət, başqa ailə istəmədiyini sübut edir. Toy gecəsi ayrıldığı Sevincini 18 ildən sonra yenidən uzaqdan olsa da görməyə gələn Tərlan onu Fərhadla yaxın münasibətdə olduğunu güman edərək, onun səadətinə müdaxilə etmədən səssizcə, özünü tanıtmadan getməyə qərar verir. Getmədən öncə 18 il özü ilə daşıdığı “Kiçiktəpə” geoloji araşdırmasının sonucunu Fərhada verərək getməyə qədar verir. Bu kəşf Fərhada respublika miqyasında şöhrət gətirsə də, o bu yükü daşıya bilmir. Heç bir zaman Fərhadın sevgisinə qarşılıq verməyən Sevincin Tərlan adına yola çıxması onun bütün ümidlərini yox etsə də, Fərhad Tərlanla görüşündə onun kimliyini müəyyən etdiyini etiraf edir. Özü də Tərlanı saxlamaq üçün vağzala gedir. Fərhadla Maralın birgə səyi ilə Sevinc Tərlana, Tərlan Sevincə qovuşur. Bütün yanlışlıqlar, səhvlər, ittihamlar bu görüşlə heç olur. Nəhayət ki, ədalət qalib gəlir. Xoşbəxlik bir həqiqət kimi batmır, itmir, yenidən bərqərar olur."
+    },
+    {
+      "id": "46",
+      "ad": "Mark Eliyahu ",
+      "tarix": "11 Aprel 2024",
+      "saat": "21:30",
+      "yer": "Heydər Əliyev Sarayı",
+      "qiymet": {
+        "min": 40,
+        "max": 220
+      },
+      "mekanyeri": "Heydər Əliyev Sarayı",
+      "mekanadress": "Bülbül prospekti 35, Bakı, Azərbaycan",
+      "sekil": "/markesas.png",
+      "arxafon": "/markfon.jpg",
+      "boyuksekil": "/markboyuk.jpg",
+      "kiciksekil": "/markkicik.png",
+      "yansekil": "/markyan.jpg",
+      "haqqinda": "Dağıstan əsilli kamança və bağlama ustası, dərin melodiyaların adamı Mark Eliyahu 11 Fevral 2024-cü il tarixində Bakıda olacaq. Şərqlə Qərbi sintez edən melodiyaları ilə ruhunuzu müxtəlif diyarlara, səsli səyahətə aparan musiqiçi və bəstəkar Mark Eliyahu Heydər Əliyev Sarayında kamança və tar kimi köhnə alətləri müasir və tarla birləşdirərək xüsusi performans göstərəcək. Mark Eliyahu 1982-ci ildə Dağıstanda dünya şöhrətli tar ustası, bəstəkar, aranjimançı və musiqişünas Piris Eliyahunun oğlu olaraq anadan olub. O, doğulduğu gündən bütün həyatını musiqi ilə iç-içə keçirib. Skripka və fortepiano ilə alətlərlə möhkəm bağlar qurmağa başlayan Eliyahu 12-13 yaşlarında bağlamanı kəşf edib, 16 yaşında isə bağlama təhsili üçün Yunanıstana gedib və Ross Dalydən dərs alıb. O, müəllimindən türk musiqisini öyrənərkən bir səhər diskdə çalınan kamançanın səsini eşitdi və bu səsdən çox təsirləndi. 17 yaşında kamança öyrənmək üçün Azərbaycana gedib və ustadı Ədalət Vəzirovdan fars-azəri musiqisini öyrənib. Kamança və tar kimi qədim alətlərin müasir və futuristik elektronika ilə birləşdirilməsi; Şərq və Qərbi birləşdirən Mark Eliyahu musiqisini bir addım irəli aparır və onu dərin səs səyahətinə çıxarır."
+    },
+    {
+      "id": "47",
+      "ad": "Pizza Hut'dan uşaqlar üçün master-klas",
+      "tarix": "10 Fevral 2024",
+      "saat": "21:30",
+      "yer": "Pizza Hut",
+      "qiymet": {
+        "min": 40,
+        "max": 150
+      },
+      "mekanyeri": "Pizza Hut",
+      "mekanadress": "28 may filialı - D.Əliyeva küç, Dəmir Yolu Vağzalı, 2-ci mərtəbə",
+      "sekil": "/pizaaesas.png",
+      "arxafon": "/pizzafon.jpg",
+      "boyuksekil": "/pizzaboyuk.jpg",
+      "kiciksekil": "/pizzakicik.jpeg",
+      "yansekil": "/pizzayan.jpg",
+      "haqqinda": "Uşaqlarınız 'Pizza Hut' şəbəkəsinin dünya standartları ilə maraqlı və əyləncəli pizza bişirmə prosesində iştirak edəcəklər. Peşakar pizzamaker onlara mükəmməl pizzanın sirlərini açacaq! Uşaq master-klasslarımız hətta ən balaca qonaqlarımızı heyran edəcək!"
+    },
+    {
+      "id": "48",
+      "ad": "ÇELİK ",
+      "tarix": "05 May 2024",
+      "saat": "21:30",
+      "yer": "Heydər Əliyev Sarayı",
+      "qiymet": {
+        "min": 20,
+        "max": 140
+      },
+      "mekanyeri": "Heydər Əliyev Sarayı",
+      "mekanadress": "Şəmsi Bədəlbəyli 98, Bakı, Azərbaycan",
+      "sekil": "/celikesas.png",
+      "arxafon": "/celikfon.jpg",
+      "boyuksekil": "/celikboyuk.jpg",
+      "kiciksekil": "/celikkicik.png",
+      "yansekil": "/celikyan.jpg",
+      "haqqinda": "İyirmidən çox albom müəllifi olan sevilən sənətçi ÇELİK 5 may tarixində Heydər Əliyev Sarayında möhtəşəm konsert proqramı ilə sevənlərinin qarşısında olacaq."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+
+.Haqqimizda{
+    position: relative;
+    top: 100px;
+    min-height: 100vh;
+}
+
+.Sider{
+    min-height: 300px;
+    width: 250px !important;
+    text-align: left;
+    background-color: white;
+    padding: 30px;
+    border-radius: 20px;
+    margin: 50px 0;
+}
+
+.TabsLink{
+    text-align: center;
+}
+
+.ContentDivs{
+    line-height: 3;
+}
+
+.ContentDivs p {
+    text-align: left;
+    padding: 0 50px ;
+    font-size: 20px;
+}
+:where(.css-dev-only-do-not-override-1qhpsh8).ant-collapse .ant-collapse-content{
+    background-color: transparent;
+}
+
+.ant-tabs-tab-btn,.ant-collapse-header-text{
+    font-size: 15px;
+}
+
+
+@media (width: 1255px){
+    .Haqqimizda{
+     margin-top: 100px;
+    }
+}

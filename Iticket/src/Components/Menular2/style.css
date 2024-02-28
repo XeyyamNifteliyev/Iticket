@@ -1,0 +1,86 @@
+body {
+  overflow-x: hidden;
+}
+
+.flexmenu {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: auto;
+  display: flex !important;
+  flex-direction: row !important;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.headerStyle {
+  text-align: center;
+  color: #fff;
+  height: 64px;
+  padding-inline: 48px;
+  line-height: 64px;
+}
+
+.footerStyle {
+  text-align: center;
+  color: #fff;
+}
+
+.layoutStyle {
+  border-radius: 8px;
+  overflow: hidden;
+  width: calc(50% - 8px);
+  max-width: calc(50% - 8px);
+}
+
+.Menular {
+  width: 100vw;
+  height: 100vh;
+  background-color: rgb(235, 207, 171);
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: space-between;
+}
+
+.filter,
+.inputSelect,
+.inputDate {
+  width: 100%;
+  height: 70px;
+  background-color: #fff;
+  border-radius: 80px !important;
+}
+
+.inputSelect .ant-select-selector {
+  border-radius: 80px;
+}
+
+.inputSelect .ant-select-selection-placeholder,
+.inputDate .ant-picker-input > input::placeholder {
+  font-size: 20px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.ant-input-group {
+  padding-top: 15px;
+}
+
+.inputDate .ant-picker-suffix .anticon {
+  font-size: 20px;
+}
+
+.inputs {
+  display: flex !important;
+  align-items: center !important;
+}
+
+@media (max-width: 576px) {
+  .contentStyle {
+    margin: 0 10px !important;
+  }
+}
+
+@media (max-width: 991px) {
+}

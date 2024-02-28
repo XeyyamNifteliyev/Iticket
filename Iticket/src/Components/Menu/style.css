@@ -1,0 +1,202 @@
+
+
+.ant-menu-horizontal .ant-menu-item, .ant-menu-horizontal .ant-menu-submenu-title,.ant-menu-submenu {
+    font-size: 20px; 
+}
+
+
+:where(.css-dev-only-do-not-override-1qhpsh8).ant-btn-default{
+    border: none;
+    background: transparent;
+    
+}
+
+
+:where(.css-dev-only-do-not-override-1qhpsh8).ant-btn-default:hover{
+    color: white !important;
+}
+
+:where(.css-dev-only-do-not-override-1qhpsh8).ant-menu-light{
+    background: transparent;
+    /* color: white !important; */
+}
+
+
+:where(.css-dev-only-do-not-override-1qhpsh8).ant-menu-light.ant-menu-horizontal >.ant-menu-item::after{
+    color: #fd0;
+}
+
+
+:where(.css-dev-only-do-not-override-1qhpsh8).ant-menu-light.ant-menu-horizontal >.ant-menu-submenu::after{
+    color: white !important;
+    position: relative;
+    inset-inline: 0 ;
+    color: white;
+}
+
+:where(.css-dev-only-do-not-override-1qhpsh8).ant-menu-light.ant-menu-horizontal >.ant-menu-submenu::after :hover{
+    color: white;
+}
+
+
+:where(.css-dev-only-do-not-override-1qhpsh8).ant-menu-light.ant-menu-horizontal >.ant-menu-item:hover:after{
+    border-bottom: 5px solid #fd0;
+    color: white !important;
+    transform: rotate(-5deg);
+}
+
+
+:where(.css-dev-only-do-not-override-1qhpsh8).ant-menu-light .ant-menu-item-selected,
+ :where(.css-dev-only-do-not-override-1qhpsh8).ant-menu-light>.ant-menu .ant-menu-item-selected{
+    color: #000;
+ }
+
+:where(.css-dev-only-do-not-override-1qhpsh8).ant-menu-light.ant-menu-horizontal >.ant-menu-item-selected,
+:where(.css-dev-only-do-not-override-1qhpsh8).ant-menu-light.ant-menu-horizontal >.ant-menu-submenu-selected{
+    color: #fd0;
+    /* color: black; */
+}
+
+.homeHover:hover{
+    color: white !important;
+}
+.elseHover:hover{
+    color: black !important;
+}
+
+
+
+:where(.css-dev-only-do-not-override-1qhpsh8).ant-btn.ant-btn-icon-only .anticon {
+    font-size: 25px;
+}
+
+
+:where(.css-dev-only-do-not-override-1qhpsh8).ant-btn-link{
+    color: black;
+}
+
+:where(.css-dev-only-do-not-override-1qhpsh8).ant-btn-link:hover{
+    color: black !important;
+}
+
+.Header{
+    background: transparent;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: absolute;
+    top: 40px;
+    z-index: 2;
+    width: 100%;
+
+}
+
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.btnUser{
+
+    margin-left: 10px;
+    width: 60px !important;
+    height: 60px !important;
+    border-radius: 50px !important;
+    background: #fd0 !important;
+    box-shadow: none !important;
+    border-radius: 50% !important;
+
+}
+
+.btnHeart,.btnShopping{
+    margin-left: 10px;
+}
+
+
+.btnUser:focus{
+    color: black !important;
+}
+
+
+:where(.css-dev-only-do-not-override-1qhpsh8).ant-menu-light.ant-menu-horizontal >.ant-menu-item-selected:active{
+    border-bottom: transparent;
+}
+
+:where(.css-dev-only-do-not-override-1qhpsh8).ant-menu-light.ant-menu-horizontal >.ant-menu-item-selected::after{
+    border-bottom: transparent;
+}
+:where(.css-dev-only-do-not-override-1qhpsh8) a{
+    font-size: 21px !important;
+}
+
+
+/* Mobile */
+
+
+
+@media (max-width: 1255px){
+    .Header{
+        position: relative;
+        top: 40px;
+
+    }
+    .btnUser{
+        width: 60px !important;
+        height: 60px !important;
+    }
+    .btnUser:hover{
+        
+        background: #fd0 !important;
+    }
+
+    :where(.css-dev-only-do-not-override-1qhpsh8).ant-menu-light{
+        background: transparent;
+        color: black !important;
+    }
+
+    .btnMenu{
+        font-size: 35px !important;
+        color: rgb(208, 198, 198);
+    }
+
+    .btnLanguage,.btnShopping,.btnHeart{
+        color: rgb(208, 198, 198);
+    }
+
+    .fontHamburger{
+        font-size: 20px;
+    }
+    :where(.css-dev-only-do-not-override-1qhpsh8).ant-layout-header{
+        line-height: 0 !important;
+    }
+   
+}
+
+@media (max-width: 992px){
+
+    .btnHeart{
+        display: none;
+    }
+}
+
+@media (max-width: 768px){
+    
+    .btnUser{
+
+        width: 50px !important;
+        height: 50px !important;
+        border-radius: 50% !important;
+    }
+    .btnUserIcon{
+        font-size: 20px !important;
+    }
+    .btnMenu{
+        width: 30px !important;
+    }
+    
+}
+
+
+
